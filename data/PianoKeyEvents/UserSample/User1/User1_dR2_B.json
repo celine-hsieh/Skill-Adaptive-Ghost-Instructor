@@ -1,0 +1,124 @@
+{
+    "keyEvents": [
+        {
+            "keyName": "5.C",
+            "pressTime": 3.9212646484375,
+            "duration": 0.4400634765625,
+            "finger": 1
+        },
+        {
+            "keyName": "5.D",
+            "pressTime": 4.7613525390625,
+            "duration": 0.5799560546875,
+            "finger": 2
+        },
+        {
+            "keyName": "5.E",
+            "pressTime": 5.7213134765625,
+            "duration": 0.9400634765625,
+            "finger": 3
+        },
+        {
+            "keyName": "5.E",
+            "pressTime": 7.1812744140625,
+            "duration": 0.6800537109375,
+            "finger": 3
+        },
+        {
+            "keyName": "5.D",
+            "pressTime": 8.101318359375,
+            "duration": 0.5999755859375,
+            "finger": 2
+        },
+        {
+            "keyName": "5.C",
+            "pressTime": 9.161376953125,
+            "duration": 0.7799072265625,
+            "finger": 1
+        },
+        {
+            "keyName": "5.C",
+            "pressTime": 10.84130859375,
+            "duration": 0.4200439453125,
+            "finger": 1
+        },
+        {
+            "keyName": "5.C",
+            "pressTime": 11.7613525390625,
+            "duration": 0.5399169921875,
+            "finger": 1
+        },
+        {
+            "keyName": "5.G",
+            "pressTime": 13.361328125,
+            "duration": 0.5599365234375,
+            "finger": 1
+        },
+        {
+            "keyName": "5.A",
+            "pressTime": 14.2813720703125,
+            "duration": 0.5198974609375,
+            "finger": 2
+        },
+        {
+            "keyName": "5.A",
+            "pressTime": 15.641357421875,
+            "duration": 0.0799560546875,
+            "finger": 3
+        },
+        {
+            "keyName": "5.B",
+            "pressTime": 15.121337890625,
+            "duration": 0.6400146484375,
+            "finger": 3
+        },
+        {
+            "keyName": "5.B",
+            "pressTime": 15.9813232421875,
+            "duration": 0.0599365234375,
+            "finger": 3
+        },
+        {
+            "keyName": "6.C",
+            "pressTime": 16.8212890625,
+            "duration": 0.5400390625,
+            "finger": 4
+        },
+        {
+            "keyName": "5.B",
+            "pressTime": 17.641357421875,
+            "duration": 0.5599365234375,
+            "finger": 3
+        },
+        {
+            "keyName": "5.A",
+            "pressTime": 18.541259765625,
+            "duration": 0.760009765625,
+            "finger": 2
+        },
+        {
+            "keyName": "5.A",
+            "pressTime": 20.4412841796875,
+            "duration": 0.02001953125,
+            "finger": 1
+        },
+        {
+            "keyName": "5.G",
+            "pressTime": 19.9412841796875,
+            "duration": 0.52001953125,
+            "finger": 1
+        },
+        {
+            "keyName": "5.G",
+            "pressTime": 20.80126953125,
+            "duration": 0.5400390625,
+            "finger": 1
+        },
+        {
+            "keyName": "5.G",
+            "pressTime": 21.6812744140625,
+            "duration": 0.6199951171875,
+            "finger": 1
+        }
+    ]
+}

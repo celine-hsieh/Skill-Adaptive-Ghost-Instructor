@@ -1,0 +1,91 @@
+participant,item_id,question,choice_raw,choice_label
+User1,QID10_1,"14. Among the two ghost hands, my preferred condition is:",2,Dynamic
+User2,QID10_1,"14. Among the two ghost hands, my preferred condition is:",3,Not sure
+User3,QID10_1,"14. Among the two ghost hands, my preferred condition is:",3,Not sure
+User4,QID10_1,"14. Among the two ghost hands, my preferred condition is:",2,Dynamic
+User5,QID10_1,"14. Among the two ghost hands, my preferred condition is:",3,Not sure
+User6,QID10_1,"14. Among the two ghost hands, my preferred condition is:",3,Not sure
+User7,QID10_1,"14. Among the two ghost hands, my preferred condition is:",2,Dynamic
+User8,QID10_1,"14. Among the two ghost hands, my preferred condition is:",3,Not sure
+User9,QID10_1,"14. Among the two ghost hands, my preferred condition is:",2,Dynamic
+User10,QID10_1,"14. Among the two ghost hands, my preferred condition is:",3,Not sure
+User11,QID10_1,"14. Among the two ghost hands, my preferred condition is:",2,Dynamic
+User12,QID10_1,"14. Among the two ghost hands, my preferred condition is:",1,Static
+User13,QID10_1,"14. Among the two ghost hands, my preferred condition is:",2,Dynamic
+User14,QID10_1,"14. Among the two ghost hands, my preferred condition is:",2,Dynamic
+User15,QID10_1,"14. Among the two ghost hands, my preferred condition is:",2,Dynamic
+User16,QID10_1,"14. Among the two ghost hands, my preferred condition is:",3,Not sure
+User17,QID10_1,"14. Among the two ghost hands, my preferred condition is:",2,Dynamic
+User18,QID10_1,"14. Among the two ghost hands, my preferred condition is:",2,Dynamic
+User19,QID10_1,"14. Among the two ghost hands, my preferred condition is:",2,Dynamic
+User20,QID10_1,"14. Among the two ghost hands, my preferred condition is:",2,Dynamic
+User21,QID10_1,"14. Among the two ghost hands, my preferred condition is:",2,Dynamic
+User22,QID10_1,"14. Among the two ghost hands, my preferred condition is:",2,Dynamic
+User23,QID10_1,"14. Among the two ghost hands, my preferred condition is:",2,Dynamic
+User24,QID10_1,"14. Among the two ghost hands, my preferred condition is:",1,Static
+User25,QID10_1,"14. Among the two ghost hands, my preferred condition is:",3,Not sure
+User26,QID10_1,"14. Among the two ghost hands, my preferred condition is:",2,Dynamic
+User27,QID10_1,"14. Among the two ghost hands, my preferred condition is:",3,Not sure
+User28,QID10_1,"14. Among the two ghost hands, my preferred condition is:",3,Not sure
+User29,QID10_1,"14. Among the two ghost hands, my preferred condition is:",2,Dynamic
+User30,QID10_1,"14. Among the two ghost hands, my preferred condition is:",2,Dynamic
+User1,QID10_2,15. The ghost hand condition that helped me memorize the melody better was,2,Dynamic
+User2,QID10_2,15. The ghost hand condition that helped me memorize the melody better was,2,Dynamic
+User3,QID10_2,15. The ghost hand condition that helped me memorize the melody better was,3,Not sure
+User4,QID10_2,15. The ghost hand condition that helped me memorize the melody better was,2,Dynamic
+User5,QID10_2,15. The ghost hand condition that helped me memorize the melody better was,3,Not sure
+User6,QID10_2,15. The ghost hand condition that helped me memorize the melody better was,2,Dynamic
+User7,QID10_2,15. The ghost hand condition that helped me memorize the melody better was,3,Not sure
+User8,QID10_2,15. The ghost hand condition that helped me memorize the melody better was,3,Not sure
+User9,QID10_2,15. The ghost hand condition that helped me memorize the melody better was,3,Not sure
+User10,QID10_2,15. The ghost hand condition that helped me memorize the melody better was,3,Not sure
+User11,QID10_2,15. The ghost hand condition that helped me memorize the melody better was,3,Not sure
+User12,QID10_2,15. The ghost hand condition that helped me memorize the melody better was,1,Static
+User13,QID10_2,15. The ghost hand condition that helped me memorize the melody better was,3,Not sure
+User14,QID10_2,15. The ghost hand condition that helped me memorize the melody better was,3,Not sure
+User15,QID10_2,15. The ghost hand condition that helped me memorize the melody better was,2,Dynamic
+User16,QID10_2,15. The ghost hand condition that helped me memorize the melody better was,3,Not sure
+User17,QID10_2,15. The ghost hand condition that helped me memorize the melody better was,3,Not sure
+User18,QID10_2,15. The ghost hand condition that helped me memorize the melody better was,2,Dynamic
+User19,QID10_2,15. The ghost hand condition that helped me memorize the melody better was,2,Dynamic
+User20,QID10_2,15. The ghost hand condition that helped me memorize the melody better was,3,Not sure
+User21,QID10_2,15. The ghost hand condition that helped me memorize the melody better was,3,Not sure
+User22,QID10_2,15. The ghost hand condition that helped me memorize the melody better was,2,Dynamic
+User23,QID10_2,15. The ghost hand condition that helped me memorize the melody better was,3,Not sure
+User24,QID10_2,15. The ghost hand condition that helped me memorize the melody better was,2,Dynamic
+User25,QID10_2,15. The ghost hand condition that helped me memorize the melody better was,3,Not sure
+User26,QID10_2,15. The ghost hand condition that helped me memorize the melody better was,2,Dynamic
+User27,QID10_2,15. The ghost hand condition that helped me memorize the melody better was,2,Dynamic
+User28,QID10_2,15. The ghost hand condition that helped me memorize the melody better was,3,Not sure
+User29,QID10_2,15. The ghost hand condition that helped me memorize the melody better was,2,Dynamic
+User30,QID10_2,15. The ghost hand condition that helped me memorize the melody better was,3,Not sure
+User1,QID10_3,16. Which ghost hand did you feel was most natural/intuitive to follow?,2,Dynamic
+User2,QID10_3,16. Which ghost hand did you feel was most natural/intuitive to follow?,3,Not sure
+User3,QID10_3,16. Which ghost hand did you feel was most natural/intuitive to follow?,3,Not sure
+User4,QID10_3,16. Which ghost hand did you feel was most natural/intuitive to follow?,2,Dynamic
+User5,QID10_3,16. Which ghost hand did you feel was most natural/intuitive to follow?,3,Not sure
+User6,QID10_3,16. Which ghost hand did you feel was most natural/intuitive to follow?,3,Not sure
+User7,QID10_3,16. Which ghost hand did you feel was most natural/intuitive to follow?,2,Dynamic
+User8,QID10_3,16. Which ghost hand did you feel was most natural/intuitive to follow?,3,Not sure
+User9,QID10_3,16. Which ghost hand did you feel was most natural/intuitive to follow?,2,Dynamic
+User10,QID10_3,16. Which ghost hand did you feel was most natural/intuitive to follow?,3,Not sure
+User11,QID10_3,16. Which ghost hand did you feel was most natural/intuitive to follow?,3,Not sure
+User12,QID10_3,16. Which ghost hand did you feel was most natural/intuitive to follow?,1,Static
+User13,QID10_3,16. Which ghost hand did you feel was most natural/intuitive to follow?,2,Dynamic
+User14,QID10_3,16. Which ghost hand did you feel was most natural/intuitive to follow?,2,Dynamic
+User15,QID10_3,16. Which ghost hand did you feel was most natural/intuitive to follow?,2,Dynamic
+User16,QID10_3,16. Which ghost hand did you feel was most natural/intuitive to follow?,3,Not sure
+User17,QID10_3,16. Which ghost hand did you feel was most natural/intuitive to follow?,2,Dynamic
+User18,QID10_3,16. Which ghost hand did you feel was most natural/intuitive to follow?,2,Dynamic
+User19,QID10_3,16. Which ghost hand did you feel was most natural/intuitive to follow?,2,Dynamic
+User20,QID10_3,16. Which ghost hand did you feel was most natural/intuitive to follow?,2,Dynamic
+User21,QID10_3,16. Which ghost hand did you feel was most natural/intuitive to follow?,2,Dynamic
+User22,QID10_3,16. Which ghost hand did you feel was most natural/intuitive to follow?,2,Dynamic
+User23,QID10_3,16. Which ghost hand did you feel was most natural/intuitive to follow?,2,Dynamic
+User24,QID10_3,16. Which ghost hand did you feel was most natural/intuitive to follow?,1,Static
+User25,QID10_3,16. Which ghost hand did you feel was most natural/intuitive to follow?,3,Not sure
+User26,QID10_3,16. Which ghost hand did you feel was most natural/intuitive to follow?,2,Dynamic
+User27,QID10_3,16. Which ghost hand did you feel was most natural/intuitive to follow?,2,Dynamic
+User28,QID10_3,16. Which ghost hand did you feel was most natural/intuitive to follow?,1,Static
+User29,QID10_3,16. Which ghost hand did you feel was most natural/intuitive to follow?,2,Dynamic
+User30,QID10_3,16. Which ghost hand did you feel was most natural/intuitive to follow?,3,Not sure

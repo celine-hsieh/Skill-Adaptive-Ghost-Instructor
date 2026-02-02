@@ -1,0 +1,94 @@
+{
+    "keyEvents": [
+        {
+            "keyName": "4.C",
+            "pressTime": 4.5545654296875,
+            "duration": 0.5899560546875,
+            "finger": 1
+        },
+        {
+            "keyName": "4.D",
+            "pressTime": 7.2945556640625,
+            "duration": 0.5599365234375,
+            "finger": 2
+        },
+        {
+            "keyName": "4.E",
+            "pressTime": 8.134521484375,
+            "duration": 1.0400390625,
+            "finger": 3
+        },
+        {
+            "keyName": "4.D",
+            "pressTime": 10.5345458984375,
+            "duration": 0.52001953125,
+            "finger": 2
+        },
+        {
+            "keyName": "4.C",
+            "pressTime": 11.4945068359375,
+            "duration": 0.760009765625,
+            "finger": 1
+        },
+        {
+            "keyName": "4.C",
+            "pressTime": 13.0745849609375,
+            "duration": 0.679931640625,
+            "finger": 1
+        },
+        {
+            "keyName": "4.G",
+            "pressTime": 14.594482421875,
+            "duration": 0.56005859375,
+            "finger": 1
+        },
+        {
+            "keyName": "4.A",
+            "pressTime": 16.154541015625,
+            "duration": 0.7005859375,
+            "finger": 2
+        },
+        {
+            "keyName": "4.B",
+            "pressTime": 17.4744873046875,
+            "duration": 0.820068359375,
+            "finger": 3
+        },
+        {
+            "keyName": "5.C",
+            "pressTime": 19.0145263671875,
+            "duration": 0.7000732421875,
+            "finger": 4
+        },
+        {
+            "keyName": "4.B",
+            "pressTime": 19.9945068359375,
+            "duration": 0.580078125,
+            "finger": 3
+        },
+        {
+            "keyName": "4.A",
+            "pressTime": 20.8544921875,
+            "duration": 0.9000244140625,
+            "finger": 2
+        },
+        {
+            "keyName": "4.G",
+            "pressTime": 22.39453125,
+            "duration": 0.5400390625,
+            "finger": 1
+        },
+        {
+            "keyName": "4.G",
+            "pressTime": 23.2545166015625,
+            "duration": 0.580078125,
+            "finger": 1
+        },
+        {
+            "keyName": "4.G",
+            "pressTime": 24.134521484375,
+            "duration": 0.6600341796875,
+            "finger": 1
+        }
+    ]
+}

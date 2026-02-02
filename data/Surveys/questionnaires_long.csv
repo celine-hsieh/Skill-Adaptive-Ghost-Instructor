@@ -1,0 +1,1021 @@
+participant,phase,condition,block,item_id,rating,qtext
+User1,Practice,Static,LearningExp,QID3_1,3.0,1. The static ghost hand helped me understand how to play the melody.
+User2,Practice,Static,LearningExp,QID3_1,5.0,1. The static ghost hand helped me understand how to play the melody.
+User3,Practice,Static,LearningExp,QID3_1,4.0,1. The static ghost hand helped me understand how to play the melody.
+User4,Practice,Static,LearningExp,QID3_1,4.0,1. The static ghost hand helped me understand how to play the melody.
+User5,Practice,Static,LearningExp,QID3_1,4.0,1. The static ghost hand helped me understand how to play the melody.
+User6,Practice,Static,LearningExp,QID3_1,5.0,1. The static ghost hand helped me understand how to play the melody.
+User7,Practice,Static,LearningExp,QID3_1,4.0,1. The static ghost hand helped me understand how to play the melody.
+User8,Practice,Static,LearningExp,QID3_1,4.0,1. The static ghost hand helped me understand how to play the melody.
+User9,Practice,Static,LearningExp,QID3_1,4.0,1. The static ghost hand helped me understand how to play the melody.
+User10,Practice,Static,LearningExp,QID3_1,4.0,1. The static ghost hand helped me understand how to play the melody.
+User11,Practice,Static,LearningExp,QID3_1,5.0,1. The static ghost hand helped me understand how to play the melody.
+User12,Practice,Static,LearningExp,QID3_1,5.0,1. The static ghost hand helped me understand how to play the melody.
+User13,Practice,Static,LearningExp,QID3_1,4.0,1. The static ghost hand helped me understand how to play the melody.
+User14,Practice,Static,LearningExp,QID3_1,3.0,1. The static ghost hand helped me understand how to play the melody.
+User15,Practice,Static,LearningExp,QID3_1,5.0,1. The static ghost hand helped me understand how to play the melody.
+User16,Practice,Static,LearningExp,QID3_1,4.0,1. The static ghost hand helped me understand how to play the melody.
+User17,Practice,Static,LearningExp,QID3_1,4.0,1. The static ghost hand helped me understand how to play the melody.
+User18,Practice,Static,LearningExp,QID3_1,4.0,1. The static ghost hand helped me understand how to play the melody.
+User19,Practice,Static,LearningExp,QID3_1,4.0,1. The static ghost hand helped me understand how to play the melody.
+User20,Practice,Static,LearningExp,QID3_1,4.0,1. The static ghost hand helped me understand how to play the melody.
+User21,Practice,Static,LearningExp,QID3_1,4.0,1. The static ghost hand helped me understand how to play the melody.
+User22,Practice,Static,LearningExp,QID3_1,4.0,1. The static ghost hand helped me understand how to play the melody.
+User23,Practice,Static,LearningExp,QID3_1,5.0,1. The static ghost hand helped me understand how to play the melody.
+User24,Practice,Static,LearningExp,QID3_1,5.0,1. The static ghost hand helped me understand how to play the melody.
+User25,Practice,Static,LearningExp,QID3_1,3.0,1. The static ghost hand helped me understand how to play the melody.
+User26,Practice,Static,LearningExp,QID3_1,4.0,1. The static ghost hand helped me understand how to play the melody.
+User27,Practice,Static,LearningExp,QID3_1,4.0,1. The static ghost hand helped me understand how to play the melody.
+User28,Practice,Static,LearningExp,QID3_1,5.0,1. The static ghost hand helped me understand how to play the melody.
+User29,Practice,Static,LearningExp,QID3_1,5.0,1. The static ghost hand helped me understand how to play the melody.
+User30,Practice,Static,LearningExp,QID3_1,5.0,1. The static ghost hand helped me understand how to play the melody.
+User1,Practice,Static,LearningExp,QID3_2,3.0,2. The static ghost hand's finger motion was easy to follow.
+User2,Practice,Static,LearningExp,QID3_2,5.0,2. The static ghost hand's finger motion was easy to follow.
+User3,Practice,Static,LearningExp,QID3_2,4.0,2. The static ghost hand's finger motion was easy to follow.
+User4,Practice,Static,LearningExp,QID3_2,4.0,2. The static ghost hand's finger motion was easy to follow.
+User5,Practice,Static,LearningExp,QID3_2,4.0,2. The static ghost hand's finger motion was easy to follow.
+User6,Practice,Static,LearningExp,QID3_2,4.0,2. The static ghost hand's finger motion was easy to follow.
+User7,Practice,Static,LearningExp,QID3_2,2.0,2. The static ghost hand's finger motion was easy to follow.
+User8,Practice,Static,LearningExp,QID3_2,4.0,2. The static ghost hand's finger motion was easy to follow.
+User9,Practice,Static,LearningExp,QID3_2,4.0,2. The static ghost hand's finger motion was easy to follow.
+User10,Practice,Static,LearningExp,QID3_2,4.0,2. The static ghost hand's finger motion was easy to follow.
+User11,Practice,Static,LearningExp,QID3_2,2.0,2. The static ghost hand's finger motion was easy to follow.
+User12,Practice,Static,LearningExp,QID3_2,5.0,2. The static ghost hand's finger motion was easy to follow.
+User13,Practice,Static,LearningExp,QID3_2,4.0,2. The static ghost hand's finger motion was easy to follow.
+User14,Practice,Static,LearningExp,QID3_2,3.0,2. The static ghost hand's finger motion was easy to follow.
+User15,Practice,Static,LearningExp,QID3_2,5.0,2. The static ghost hand's finger motion was easy to follow.
+User16,Practice,Static,LearningExp,QID3_2,4.0,2. The static ghost hand's finger motion was easy to follow.
+User17,Practice,Static,LearningExp,QID3_2,4.0,2. The static ghost hand's finger motion was easy to follow.
+User18,Practice,Static,LearningExp,QID3_2,3.0,2. The static ghost hand's finger motion was easy to follow.
+User19,Practice,Static,LearningExp,QID3_2,4.0,2. The static ghost hand's finger motion was easy to follow.
+User20,Practice,Static,LearningExp,QID3_2,4.0,2. The static ghost hand's finger motion was easy to follow.
+User21,Practice,Static,LearningExp,QID3_2,3.0,2. The static ghost hand's finger motion was easy to follow.
+User22,Practice,Static,LearningExp,QID3_2,4.0,2. The static ghost hand's finger motion was easy to follow.
+User23,Practice,Static,LearningExp,QID3_2,4.0,2. The static ghost hand's finger motion was easy to follow.
+User24,Practice,Static,LearningExp,QID3_2,5.0,2. The static ghost hand's finger motion was easy to follow.
+User25,Practice,Static,LearningExp,QID3_2,3.0,2. The static ghost hand's finger motion was easy to follow.
+User26,Practice,Static,LearningExp,QID3_2,4.0,2. The static ghost hand's finger motion was easy to follow.
+User27,Practice,Static,LearningExp,QID3_2,4.0,2. The static ghost hand's finger motion was easy to follow.
+User28,Practice,Static,LearningExp,QID3_2,4.0,2. The static ghost hand's finger motion was easy to follow.
+User29,Practice,Static,LearningExp,QID3_2,5.0,2. The static ghost hand's finger motion was easy to follow.
+User30,Practice,Static,LearningExp,QID3_2,3.0,2. The static ghost hand's finger motion was easy to follow.
+User1,Practice,Static,LearningExp,QID3_3,3.0,3. Following the static ghost hand made the learning process easier.
+User2,Practice,Static,LearningExp,QID3_3,5.0,3. Following the static ghost hand made the learning process easier.
+User3,Practice,Static,LearningExp,QID3_3,4.0,3. Following the static ghost hand made the learning process easier.
+User4,Practice,Static,LearningExp,QID3_3,5.0,3. Following the static ghost hand made the learning process easier.
+User5,Practice,Static,LearningExp,QID3_3,3.0,3. Following the static ghost hand made the learning process easier.
+User6,Practice,Static,LearningExp,QID3_3,4.0,3. Following the static ghost hand made the learning process easier.
+User7,Practice,Static,LearningExp,QID3_3,4.0,3. Following the static ghost hand made the learning process easier.
+User8,Practice,Static,LearningExp,QID3_3,4.0,3. Following the static ghost hand made the learning process easier.
+User9,Practice,Static,LearningExp,QID3_3,4.0,3. Following the static ghost hand made the learning process easier.
+User10,Practice,Static,LearningExp,QID3_3,3.0,3. Following the static ghost hand made the learning process easier.
+User11,Practice,Static,LearningExp,QID3_3,3.0,3. Following the static ghost hand made the learning process easier.
+User12,Practice,Static,LearningExp,QID3_3,5.0,3. Following the static ghost hand made the learning process easier.
+User13,Practice,Static,LearningExp,QID3_3,4.0,3. Following the static ghost hand made the learning process easier.
+User14,Practice,Static,LearningExp,QID3_3,4.0,3. Following the static ghost hand made the learning process easier.
+User15,Practice,Static,LearningExp,QID3_3,5.0,3. Following the static ghost hand made the learning process easier.
+User16,Practice,Static,LearningExp,QID3_3,5.0,3. Following the static ghost hand made the learning process easier.
+User17,Practice,Static,LearningExp,QID3_3,4.0,3. Following the static ghost hand made the learning process easier.
+User18,Practice,Static,LearningExp,QID3_3,4.0,3. Following the static ghost hand made the learning process easier.
+User19,Practice,Static,LearningExp,QID3_3,3.0,3. Following the static ghost hand made the learning process easier.
+User20,Practice,Static,LearningExp,QID3_3,4.0,3. Following the static ghost hand made the learning process easier.
+User21,Practice,Static,LearningExp,QID3_3,4.0,3. Following the static ghost hand made the learning process easier.
+User22,Practice,Static,LearningExp,QID3_3,4.0,3. Following the static ghost hand made the learning process easier.
+User23,Practice,Static,LearningExp,QID3_3,4.0,3. Following the static ghost hand made the learning process easier.
+User24,Practice,Static,LearningExp,QID3_3,5.0,3. Following the static ghost hand made the learning process easier.
+User25,Practice,Static,LearningExp,QID3_3,3.0,3. Following the static ghost hand made the learning process easier.
+User26,Practice,Static,LearningExp,QID3_3,3.0,3. Following the static ghost hand made the learning process easier.
+User27,Practice,Static,LearningExp,QID3_3,3.0,3. Following the static ghost hand made the learning process easier.
+User28,Practice,Static,LearningExp,QID3_3,4.0,3. Following the static ghost hand made the learning process easier.
+User29,Practice,Static,LearningExp,QID3_3,5.0,3. Following the static ghost hand made the learning process easier.
+User30,Practice,Static,LearningExp,QID3_3,4.0,3. Following the static ghost hand made the learning process easier.
+User1,Practice,Static,LearningExp,QID3_4,3.0,4. The static ghost hand improved my timing and finger placement.
+User2,Practice,Static,LearningExp,QID3_4,5.0,4. The static ghost hand improved my timing and finger placement.
+User3,Practice,Static,LearningExp,QID3_4,4.0,4. The static ghost hand improved my timing and finger placement.
+User4,Practice,Static,LearningExp,QID3_4,4.0,4. The static ghost hand improved my timing and finger placement.
+User5,Practice,Static,LearningExp,QID3_4,3.0,4. The static ghost hand improved my timing and finger placement.
+User6,Practice,Static,LearningExp,QID3_4,3.0,4. The static ghost hand improved my timing and finger placement.
+User7,Practice,Static,LearningExp,QID3_4,2.0,4. The static ghost hand improved my timing and finger placement.
+User8,Practice,Static,LearningExp,QID3_4,3.0,4. The static ghost hand improved my timing and finger placement.
+User9,Practice,Static,LearningExp,QID3_4,3.0,4. The static ghost hand improved my timing and finger placement.
+User10,Practice,Static,LearningExp,QID3_4,2.0,4. The static ghost hand improved my timing and finger placement.
+User11,Practice,Static,LearningExp,QID3_4,3.0,4. The static ghost hand improved my timing and finger placement.
+User12,Practice,Static,LearningExp,QID3_4,5.0,4. The static ghost hand improved my timing and finger placement.
+User13,Practice,Static,LearningExp,QID3_4,4.0,4. The static ghost hand improved my timing and finger placement.
+User14,Practice,Static,LearningExp,QID3_4,3.0,4. The static ghost hand improved my timing and finger placement.
+User15,Practice,Static,LearningExp,QID3_4,4.0,4. The static ghost hand improved my timing and finger placement.
+User16,Practice,Static,LearningExp,QID3_4,5.0,4. The static ghost hand improved my timing and finger placement.
+User17,Practice,Static,LearningExp,QID3_4,3.0,4. The static ghost hand improved my timing and finger placement.
+User18,Practice,Static,LearningExp,QID3_4,3.0,4. The static ghost hand improved my timing and finger placement.
+User19,Practice,Static,LearningExp,QID3_4,3.0,4. The static ghost hand improved my timing and finger placement.
+User20,Practice,Static,LearningExp,QID3_4,4.0,4. The static ghost hand improved my timing and finger placement.
+User21,Practice,Static,LearningExp,QID3_4,4.0,4. The static ghost hand improved my timing and finger placement.
+User22,Practice,Static,LearningExp,QID3_4,3.0,4. The static ghost hand improved my timing and finger placement.
+User23,Practice,Static,LearningExp,QID3_4,2.0,4. The static ghost hand improved my timing and finger placement.
+User24,Practice,Static,LearningExp,QID3_4,5.0,4. The static ghost hand improved my timing and finger placement.
+User25,Practice,Static,LearningExp,QID3_4,4.0,4. The static ghost hand improved my timing and finger placement.
+User26,Practice,Static,LearningExp,QID3_4,3.0,4. The static ghost hand improved my timing and finger placement.
+User27,Practice,Static,LearningExp,QID3_4,4.0,4. The static ghost hand improved my timing and finger placement.
+User28,Practice,Static,LearningExp,QID3_4,4.0,4. The static ghost hand improved my timing and finger placement.
+User29,Practice,Static,LearningExp,QID3_4,4.0,4. The static ghost hand improved my timing and finger placement.
+User30,Practice,Static,LearningExp,QID3_4,4.0,4. The static ghost hand improved my timing and finger placement.
+User1,Practice,Static,LearningExp,QID3_5,3.0,5. The static ghost hand motivated me to continue learning.
+User2,Practice,Static,LearningExp,QID3_5,5.0,5. The static ghost hand motivated me to continue learning.
+User3,Practice,Static,LearningExp,QID3_5,3.0,5. The static ghost hand motivated me to continue learning.
+User4,Practice,Static,LearningExp,QID3_5,5.0,5. The static ghost hand motivated me to continue learning.
+User5,Practice,Static,LearningExp,QID3_5,3.0,5. The static ghost hand motivated me to continue learning.
+User6,Practice,Static,LearningExp,QID3_5,2.0,5. The static ghost hand motivated me to continue learning.
+User7,Practice,Static,LearningExp,QID3_5,3.0,5. The static ghost hand motivated me to continue learning.
+User8,Practice,Static,LearningExp,QID3_5,3.0,5. The static ghost hand motivated me to continue learning.
+User9,Practice,Static,LearningExp,QID3_5,3.0,5. The static ghost hand motivated me to continue learning.
+User10,Practice,Static,LearningExp,QID3_5,3.0,5. The static ghost hand motivated me to continue learning.
+User11,Practice,Static,LearningExp,QID3_5,3.0,5. The static ghost hand motivated me to continue learning.
+User12,Practice,Static,LearningExp,QID3_5,5.0,5. The static ghost hand motivated me to continue learning.
+User13,Practice,Static,LearningExp,QID3_5,4.0,5. The static ghost hand motivated me to continue learning.
+User14,Practice,Static,LearningExp,QID3_5,5.0,5. The static ghost hand motivated me to continue learning.
+User15,Practice,Static,LearningExp,QID3_5,5.0,5. The static ghost hand motivated me to continue learning.
+User16,Practice,Static,LearningExp,QID3_5,3.0,5. The static ghost hand motivated me to continue learning.
+User17,Practice,Static,LearningExp,QID3_5,3.0,5. The static ghost hand motivated me to continue learning.
+User18,Practice,Static,LearningExp,QID3_5,4.0,5. The static ghost hand motivated me to continue learning.
+User19,Practice,Static,LearningExp,QID3_5,2.0,5. The static ghost hand motivated me to continue learning.
+User20,Practice,Static,LearningExp,QID3_5,4.0,5. The static ghost hand motivated me to continue learning.
+User21,Practice,Static,LearningExp,QID3_5,4.0,5. The static ghost hand motivated me to continue learning.
+User22,Practice,Static,LearningExp,QID3_5,3.0,5. The static ghost hand motivated me to continue learning.
+User23,Practice,Static,LearningExp,QID3_5,5.0,5. The static ghost hand motivated me to continue learning.
+User24,Practice,Static,LearningExp,QID3_5,3.0,5. The static ghost hand motivated me to continue learning.
+User25,Practice,Static,LearningExp,QID3_5,3.0,5. The static ghost hand motivated me to continue learning.
+User26,Practice,Static,LearningExp,QID3_5,3.0,5. The static ghost hand motivated me to continue learning.
+User27,Practice,Static,LearningExp,QID3_5,4.0,5. The static ghost hand motivated me to continue learning.
+User28,Practice,Static,LearningExp,QID3_5,5.0,5. The static ghost hand motivated me to continue learning.
+User29,Practice,Static,LearningExp,QID3_5,3.0,5. The static ghost hand motivated me to continue learning.
+User30,Practice,Static,LearningExp,QID3_5,4.0,5. The static ghost hand motivated me to continue learning.
+User1,Practice,Static,LearningExp,QID3_6,3.0,6. The static ghost hand helped me stay focused while playing.
+User2,Practice,Static,LearningExp,QID3_6,3.0,6. The static ghost hand helped me stay focused while playing.
+User3,Practice,Static,LearningExp,QID3_6,3.0,6. The static ghost hand helped me stay focused while playing.
+User4,Practice,Static,LearningExp,QID3_6,4.0,6. The static ghost hand helped me stay focused while playing.
+User5,Practice,Static,LearningExp,QID3_6,4.0,6. The static ghost hand helped me stay focused while playing.
+User6,Practice,Static,LearningExp,QID3_6,4.0,6. The static ghost hand helped me stay focused while playing.
+User7,Practice,Static,LearningExp,QID3_6,3.0,6. The static ghost hand helped me stay focused while playing.
+User8,Practice,Static,LearningExp,QID3_6,3.0,6. The static ghost hand helped me stay focused while playing.
+User9,Practice,Static,LearningExp,QID3_6,4.0,6. The static ghost hand helped me stay focused while playing.
+User10,Practice,Static,LearningExp,QID3_6,4.0,6. The static ghost hand helped me stay focused while playing.
+User11,Practice,Static,LearningExp,QID3_6,3.0,6. The static ghost hand helped me stay focused while playing.
+User12,Practice,Static,LearningExp,QID3_6,3.0,6. The static ghost hand helped me stay focused while playing.
+User13,Practice,Static,LearningExp,QID3_6,4.0,6. The static ghost hand helped me stay focused while playing.
+User14,Practice,Static,LearningExp,QID3_6,4.0,6. The static ghost hand helped me stay focused while playing.
+User15,Practice,Static,LearningExp,QID3_6,5.0,6. The static ghost hand helped me stay focused while playing.
+User16,Practice,Static,LearningExp,QID3_6,4.0,6. The static ghost hand helped me stay focused while playing.
+User17,Practice,Static,LearningExp,QID3_6,3.0,6. The static ghost hand helped me stay focused while playing.
+User18,Practice,Static,LearningExp,QID3_6,4.0,6. The static ghost hand helped me stay focused while playing.
+User19,Practice,Static,LearningExp,QID3_6,4.0,6. The static ghost hand helped me stay focused while playing.
+User20,Practice,Static,LearningExp,QID3_6,5.0,6. The static ghost hand helped me stay focused while playing.
+User21,Practice,Static,LearningExp,QID3_6,5.0,6. The static ghost hand helped me stay focused while playing.
+User22,Practice,Static,LearningExp,QID3_6,4.0,6. The static ghost hand helped me stay focused while playing.
+User23,Practice,Static,LearningExp,QID3_6,3.0,6. The static ghost hand helped me stay focused while playing.
+User24,Practice,Static,LearningExp,QID3_6,5.0,6. The static ghost hand helped me stay focused while playing.
+User25,Practice,Static,LearningExp,QID3_6,3.0,6. The static ghost hand helped me stay focused while playing.
+User26,Practice,Static,LearningExp,QID3_6,3.0,6. The static ghost hand helped me stay focused while playing.
+User27,Practice,Static,LearningExp,QID3_6,4.0,6. The static ghost hand helped me stay focused while playing.
+User28,Practice,Static,LearningExp,QID3_6,3.0,6. The static ghost hand helped me stay focused while playing.
+User29,Practice,Static,LearningExp,QID3_6,4.0,6. The static ghost hand helped me stay focused while playing.
+User30,Practice,Static,LearningExp,QID3_6,5.0,6. The static ghost hand helped me stay focused while playing.
+User1,Practice,Static,LearningExp,QID3_7,3.0,7. The static ghost hand distracted me during playing.
+User2,Practice,Static,LearningExp,QID3_7,3.0,7. The static ghost hand distracted me during playing.
+User3,Practice,Static,LearningExp,QID3_7,3.0,7. The static ghost hand distracted me during playing.
+User4,Practice,Static,LearningExp,QID3_7,2.0,7. The static ghost hand distracted me during playing.
+User5,Practice,Static,LearningExp,QID3_7,3.0,7. The static ghost hand distracted me during playing.
+User6,Practice,Static,LearningExp,QID3_7,4.0,7. The static ghost hand distracted me during playing.
+User7,Practice,Static,LearningExp,QID3_7,4.0,7. The static ghost hand distracted me during playing.
+User8,Practice,Static,LearningExp,QID3_7,2.0,7. The static ghost hand distracted me during playing.
+User9,Practice,Static,LearningExp,QID3_7,5.0,7. The static ghost hand distracted me during playing.
+User10,Practice,Static,LearningExp,QID3_7,3.0,7. The static ghost hand distracted me during playing.
+User11,Practice,Static,LearningExp,QID3_7,5.0,7. The static ghost hand distracted me during playing.
+User12,Practice,Static,LearningExp,QID3_7,3.0,7. The static ghost hand distracted me during playing.
+User13,Practice,Static,LearningExp,QID3_7,2.0,7. The static ghost hand distracted me during playing.
+User14,Practice,Static,LearningExp,QID3_7,3.0,7. The static ghost hand distracted me during playing.
+User15,Practice,Static,LearningExp,QID3_7,5.0,7. The static ghost hand distracted me during playing.
+User16,Practice,Static,LearningExp,QID3_7,5.0,7. The static ghost hand distracted me during playing.
+User17,Practice,Static,LearningExp,QID3_7,3.0,7. The static ghost hand distracted me during playing.
+User18,Practice,Static,LearningExp,QID3_7,4.0,7. The static ghost hand distracted me during playing.
+User19,Practice,Static,LearningExp,QID3_7,2.0,7. The static ghost hand distracted me during playing.
+User20,Practice,Static,LearningExp,QID3_7,4.0,7. The static ghost hand distracted me during playing.
+User21,Practice,Static,LearningExp,QID3_7,2.0,7. The static ghost hand distracted me during playing.
+User22,Practice,Static,LearningExp,QID3_7,3.0,7. The static ghost hand distracted me during playing.
+User23,Practice,Static,LearningExp,QID3_7,2.0,7. The static ghost hand distracted me during playing.
+User24,Practice,Static,LearningExp,QID3_7,4.0,7. The static ghost hand distracted me during playing.
+User25,Practice,Static,LearningExp,QID3_7,5.0,7. The static ghost hand distracted me during playing.
+User26,Practice,Static,LearningExp,QID3_7,2.0,7. The static ghost hand distracted me during playing.
+User27,Practice,Static,LearningExp,QID3_7,4.0,7. The static ghost hand distracted me during playing.
+User28,Practice,Static,LearningExp,QID3_7,4.0,7. The static ghost hand distracted me during playing.
+User29,Practice,Static,LearningExp,QID3_7,2.0,7. The static ghost hand distracted me during playing.
+User30,Practice,Static,LearningExp,QID3_7,4.0,7. The static ghost hand distracted me during playing.
+User1,Practice,Dynamic,LearningExp,QID28_1,4.0,1. The dynamic ghost hand helped me understand how to play the melody.
+User2,Practice,Dynamic,LearningExp,QID28_1,5.0,1. The dynamic ghost hand helped me understand how to play the melody.
+User3,Practice,Dynamic,LearningExp,QID28_1,5.0,1. The dynamic ghost hand helped me understand how to play the melody.
+User4,Practice,Dynamic,LearningExp,QID28_1,5.0,1. The dynamic ghost hand helped me understand how to play the melody.
+User5,Practice,Dynamic,LearningExp,QID28_1,4.0,1. The dynamic ghost hand helped me understand how to play the melody.
+User6,Practice,Dynamic,LearningExp,QID28_1,5.0,1. The dynamic ghost hand helped me understand how to play the melody.
+User7,Practice,Dynamic,LearningExp,QID28_1,5.0,1. The dynamic ghost hand helped me understand how to play the melody.
+User8,Practice,Dynamic,LearningExp,QID28_1,5.0,1. The dynamic ghost hand helped me understand how to play the melody.
+User9,Practice,Dynamic,LearningExp,QID28_1,5.0,1. The dynamic ghost hand helped me understand how to play the melody.
+User10,Practice,Dynamic,LearningExp,QID28_1,4.0,1. The dynamic ghost hand helped me understand how to play the melody.
+User11,Practice,Dynamic,LearningExp,QID28_1,5.0,1. The dynamic ghost hand helped me understand how to play the melody.
+User12,Practice,Dynamic,LearningExp,QID28_1,5.0,1. The dynamic ghost hand helped me understand how to play the melody.
+User13,Practice,Dynamic,LearningExp,QID28_1,5.0,1. The dynamic ghost hand helped me understand how to play the melody.
+User14,Practice,Dynamic,LearningExp,QID28_1,4.0,1. The dynamic ghost hand helped me understand how to play the melody.
+User15,Practice,Dynamic,LearningExp,QID28_1,5.0,1. The dynamic ghost hand helped me understand how to play the melody.
+User16,Practice,Dynamic,LearningExp,QID28_1,4.0,1. The dynamic ghost hand helped me understand how to play the melody.
+User17,Practice,Dynamic,LearningExp,QID28_1,4.0,1. The dynamic ghost hand helped me understand how to play the melody.
+User18,Practice,Dynamic,LearningExp,QID28_1,5.0,1. The dynamic ghost hand helped me understand how to play the melody.
+User19,Practice,Dynamic,LearningExp,QID28_1,5.0,1. The dynamic ghost hand helped me understand how to play the melody.
+User20,Practice,Dynamic,LearningExp,QID28_1,4.0,1. The dynamic ghost hand helped me understand how to play the melody.
+User21,Practice,Dynamic,LearningExp,QID28_1,5.0,1. The dynamic ghost hand helped me understand how to play the melody.
+User22,Practice,Dynamic,LearningExp,QID28_1,4.0,1. The dynamic ghost hand helped me understand how to play the melody.
+User23,Practice,Dynamic,LearningExp,QID28_1,5.0,1. The dynamic ghost hand helped me understand how to play the melody.
+User24,Practice,Dynamic,LearningExp,QID28_1,3.0,1. The dynamic ghost hand helped me understand how to play the melody.
+User25,Practice,Dynamic,LearningExp,QID28_1,3.0,1. The dynamic ghost hand helped me understand how to play the melody.
+User26,Practice,Dynamic,LearningExp,QID28_1,4.0,1. The dynamic ghost hand helped me understand how to play the melody.
+User27,Practice,Dynamic,LearningExp,QID28_1,4.0,1. The dynamic ghost hand helped me understand how to play the melody.
+User28,Practice,Dynamic,LearningExp,QID28_1,5.0,1. The dynamic ghost hand helped me understand how to play the melody.
+User29,Practice,Dynamic,LearningExp,QID28_1,5.0,1. The dynamic ghost hand helped me understand how to play the melody.
+User30,Practice,Dynamic,LearningExp,QID28_1,5.0,1. The dynamic ghost hand helped me understand how to play the melody.
+User1,Practice,Dynamic,LearningExp,QID28_2,4.0,2. The dynamic ghost hand's finger motion was easy to follow.
+User2,Practice,Dynamic,LearningExp,QID28_2,5.0,2. The dynamic ghost hand's finger motion was easy to follow.
+User3,Practice,Dynamic,LearningExp,QID28_2,4.0,2. The dynamic ghost hand's finger motion was easy to follow.
+User4,Practice,Dynamic,LearningExp,QID28_2,4.0,2. The dynamic ghost hand's finger motion was easy to follow.
+User5,Practice,Dynamic,LearningExp,QID28_2,4.0,2. The dynamic ghost hand's finger motion was easy to follow.
+User6,Practice,Dynamic,LearningExp,QID28_2,5.0,2. The dynamic ghost hand's finger motion was easy to follow.
+User7,Practice,Dynamic,LearningExp,QID28_2,4.0,2. The dynamic ghost hand's finger motion was easy to follow.
+User8,Practice,Dynamic,LearningExp,QID28_2,4.0,2. The dynamic ghost hand's finger motion was easy to follow.
+User9,Practice,Dynamic,LearningExp,QID28_2,5.0,2. The dynamic ghost hand's finger motion was easy to follow.
+User10,Practice,Dynamic,LearningExp,QID28_2,4.0,2. The dynamic ghost hand's finger motion was easy to follow.
+User11,Practice,Dynamic,LearningExp,QID28_2,4.0,2. The dynamic ghost hand's finger motion was easy to follow.
+User12,Practice,Dynamic,LearningExp,QID28_2,5.0,2. The dynamic ghost hand's finger motion was easy to follow.
+User13,Practice,Dynamic,LearningExp,QID28_2,5.0,2. The dynamic ghost hand's finger motion was easy to follow.
+User14,Practice,Dynamic,LearningExp,QID28_2,4.0,2. The dynamic ghost hand's finger motion was easy to follow.
+User15,Practice,Dynamic,LearningExp,QID28_2,5.0,2. The dynamic ghost hand's finger motion was easy to follow.
+User16,Practice,Dynamic,LearningExp,QID28_2,4.0,2. The dynamic ghost hand's finger motion was easy to follow.
+User17,Practice,Dynamic,LearningExp,QID28_2,4.0,2. The dynamic ghost hand's finger motion was easy to follow.
+User18,Practice,Dynamic,LearningExp,QID28_2,5.0,2. The dynamic ghost hand's finger motion was easy to follow.
+User19,Practice,Dynamic,LearningExp,QID28_2,5.0,2. The dynamic ghost hand's finger motion was easy to follow.
+User20,Practice,Dynamic,LearningExp,QID28_2,4.0,2. The dynamic ghost hand's finger motion was easy to follow.
+User21,Practice,Dynamic,LearningExp,QID28_2,4.0,2. The dynamic ghost hand's finger motion was easy to follow.
+User22,Practice,Dynamic,LearningExp,QID28_2,4.0,2. The dynamic ghost hand's finger motion was easy to follow.
+User23,Practice,Dynamic,LearningExp,QID28_2,4.0,2. The dynamic ghost hand's finger motion was easy to follow.
+User24,Practice,Dynamic,LearningExp,QID28_2,2.0,2. The dynamic ghost hand's finger motion was easy to follow.
+User25,Practice,Dynamic,LearningExp,QID28_2,3.0,2. The dynamic ghost hand's finger motion was easy to follow.
+User26,Practice,Dynamic,LearningExp,QID28_2,4.0,2. The dynamic ghost hand's finger motion was easy to follow.
+User27,Practice,Dynamic,LearningExp,QID28_2,4.0,2. The dynamic ghost hand's finger motion was easy to follow.
+User28,Practice,Dynamic,LearningExp,QID28_2,4.0,2. The dynamic ghost hand's finger motion was easy to follow.
+User29,Practice,Dynamic,LearningExp,QID28_2,5.0,2. The dynamic ghost hand's finger motion was easy to follow.
+User30,Practice,Dynamic,LearningExp,QID28_2,4.0,2. The dynamic ghost hand's finger motion was easy to follow.
+User1,Practice,Dynamic,LearningExp,QID28_3,5.0,3. Following the dynamic ghost hand made the learning process easier.
+User2,Practice,Dynamic,LearningExp,QID28_3,5.0,3. Following the dynamic ghost hand made the learning process easier.
+User3,Practice,Dynamic,LearningExp,QID28_3,5.0,3. Following the dynamic ghost hand made the learning process easier.
+User4,Practice,Dynamic,LearningExp,QID28_3,5.0,3. Following the dynamic ghost hand made the learning process easier.
+User5,Practice,Dynamic,LearningExp,QID28_3,5.0,3. Following the dynamic ghost hand made the learning process easier.
+User6,Practice,Dynamic,LearningExp,QID28_3,5.0,3. Following the dynamic ghost hand made the learning process easier.
+User7,Practice,Dynamic,LearningExp,QID28_3,4.0,3. Following the dynamic ghost hand made the learning process easier.
+User8,Practice,Dynamic,LearningExp,QID28_3,3.0,3. Following the dynamic ghost hand made the learning process easier.
+User9,Practice,Dynamic,LearningExp,QID28_3,4.0,3. Following the dynamic ghost hand made the learning process easier.
+User10,Practice,Dynamic,LearningExp,QID28_3,3.0,3. Following the dynamic ghost hand made the learning process easier.
+User11,Practice,Dynamic,LearningExp,QID28_3,4.0,3. Following the dynamic ghost hand made the learning process easier.
+User12,Practice,Dynamic,LearningExp,QID28_3,5.0,3. Following the dynamic ghost hand made the learning process easier.
+User13,Practice,Dynamic,LearningExp,QID28_3,5.0,3. Following the dynamic ghost hand made the learning process easier.
+User14,Practice,Dynamic,LearningExp,QID28_3,5.0,3. Following the dynamic ghost hand made the learning process easier.
+User15,Practice,Dynamic,LearningExp,QID28_3,5.0,3. Following the dynamic ghost hand made the learning process easier.
+User16,Practice,Dynamic,LearningExp,QID28_3,5.0,3. Following the dynamic ghost hand made the learning process easier.
+User17,Practice,Dynamic,LearningExp,QID28_3,4.0,3. Following the dynamic ghost hand made the learning process easier.
+User18,Practice,Dynamic,LearningExp,QID28_3,5.0,3. Following the dynamic ghost hand made the learning process easier.
+User19,Practice,Dynamic,LearningExp,QID28_3,5.0,3. Following the dynamic ghost hand made the learning process easier.
+User20,Practice,Dynamic,LearningExp,QID28_3,4.0,3. Following the dynamic ghost hand made the learning process easier.
+User21,Practice,Dynamic,LearningExp,QID28_3,4.0,3. Following the dynamic ghost hand made the learning process easier.
+User22,Practice,Dynamic,LearningExp,QID28_3,3.0,3. Following the dynamic ghost hand made the learning process easier.
+User23,Practice,Dynamic,LearningExp,QID28_3,5.0,3. Following the dynamic ghost hand made the learning process easier.
+User24,Practice,Dynamic,LearningExp,QID28_3,2.0,3. Following the dynamic ghost hand made the learning process easier.
+User25,Practice,Dynamic,LearningExp,QID28_3,3.0,3. Following the dynamic ghost hand made the learning process easier.
+User26,Practice,Dynamic,LearningExp,QID28_3,4.0,3. Following the dynamic ghost hand made the learning process easier.
+User27,Practice,Dynamic,LearningExp,QID28_3,4.0,3. Following the dynamic ghost hand made the learning process easier.
+User28,Practice,Dynamic,LearningExp,QID28_3,4.0,3. Following the dynamic ghost hand made the learning process easier.
+User29,Practice,Dynamic,LearningExp,QID28_3,5.0,3. Following the dynamic ghost hand made the learning process easier.
+User30,Practice,Dynamic,LearningExp,QID28_3,4.0,3. Following the dynamic ghost hand made the learning process easier.
+User1,Practice,Dynamic,LearningExp,QID28_4,4.0,4. The dynamic ghost hand improved my timing and finger placement.
+User2,Practice,Dynamic,LearningExp,QID28_4,5.0,4. The dynamic ghost hand improved my timing and finger placement.
+User3,Practice,Dynamic,LearningExp,QID28_4,5.0,4. The dynamic ghost hand improved my timing and finger placement.
+User4,Practice,Dynamic,LearningExp,QID28_4,5.0,4. The dynamic ghost hand improved my timing and finger placement.
+User5,Practice,Dynamic,LearningExp,QID28_4,5.0,4. The dynamic ghost hand improved my timing and finger placement.
+User6,Practice,Dynamic,LearningExp,QID28_4,5.0,4. The dynamic ghost hand improved my timing and finger placement.
+User7,Practice,Dynamic,LearningExp,QID28_4,5.0,4. The dynamic ghost hand improved my timing and finger placement.
+User8,Practice,Dynamic,LearningExp,QID28_4,5.0,4. The dynamic ghost hand improved my timing and finger placement.
+User9,Practice,Dynamic,LearningExp,QID28_4,4.0,4. The dynamic ghost hand improved my timing and finger placement.
+User10,Practice,Dynamic,LearningExp,QID28_4,3.0,4. The dynamic ghost hand improved my timing and finger placement.
+User11,Practice,Dynamic,LearningExp,QID28_4,4.0,4. The dynamic ghost hand improved my timing and finger placement.
+User12,Practice,Dynamic,LearningExp,QID28_4,5.0,4. The dynamic ghost hand improved my timing and finger placement.
+User13,Practice,Dynamic,LearningExp,QID28_4,5.0,4. The dynamic ghost hand improved my timing and finger placement.
+User14,Practice,Dynamic,LearningExp,QID28_4,5.0,4. The dynamic ghost hand improved my timing and finger placement.
+User15,Practice,Dynamic,LearningExp,QID28_4,5.0,4. The dynamic ghost hand improved my timing and finger placement.
+User16,Practice,Dynamic,LearningExp,QID28_4,5.0,4. The dynamic ghost hand improved my timing and finger placement.
+User17,Practice,Dynamic,LearningExp,QID28_4,3.0,4. The dynamic ghost hand improved my timing and finger placement.
+User18,Practice,Dynamic,LearningExp,QID28_4,5.0,4. The dynamic ghost hand improved my timing and finger placement.
+User19,Practice,Dynamic,LearningExp,QID28_4,4.0,4. The dynamic ghost hand improved my timing and finger placement.
+User20,Practice,Dynamic,LearningExp,QID28_4,4.0,4. The dynamic ghost hand improved my timing and finger placement.
+User21,Practice,Dynamic,LearningExp,QID28_4,4.0,4. The dynamic ghost hand improved my timing and finger placement.
+User22,Practice,Dynamic,LearningExp,QID28_4,4.0,4. The dynamic ghost hand improved my timing and finger placement.
+User23,Practice,Dynamic,LearningExp,QID28_4,4.0,4. The dynamic ghost hand improved my timing and finger placement.
+User24,Practice,Dynamic,LearningExp,QID28_4,2.0,4. The dynamic ghost hand improved my timing and finger placement.
+User25,Practice,Dynamic,LearningExp,QID28_4,4.0,4. The dynamic ghost hand improved my timing and finger placement.
+User26,Practice,Dynamic,LearningExp,QID28_4,4.0,4. The dynamic ghost hand improved my timing and finger placement.
+User27,Practice,Dynamic,LearningExp,QID28_4,4.0,4. The dynamic ghost hand improved my timing and finger placement.
+User28,Practice,Dynamic,LearningExp,QID28_4,3.0,4. The dynamic ghost hand improved my timing and finger placement.
+User29,Practice,Dynamic,LearningExp,QID28_4,5.0,4. The dynamic ghost hand improved my timing and finger placement.
+User30,Practice,Dynamic,LearningExp,QID28_4,4.0,4. The dynamic ghost hand improved my timing and finger placement.
+User1,Practice,Dynamic,LearningExp,QID28_5,5.0,5. The dynamic ghost hand motivated me to continue learning.
+User2,Practice,Dynamic,LearningExp,QID28_5,5.0,5. The dynamic ghost hand motivated me to continue learning.
+User3,Practice,Dynamic,LearningExp,QID28_5,5.0,5. The dynamic ghost hand motivated me to continue learning.
+User4,Practice,Dynamic,LearningExp,QID28_5,5.0,5. The dynamic ghost hand motivated me to continue learning.
+User5,Practice,Dynamic,LearningExp,QID28_5,4.0,5. The dynamic ghost hand motivated me to continue learning.
+User6,Practice,Dynamic,LearningExp,QID28_5,5.0,5. The dynamic ghost hand motivated me to continue learning.
+User7,Practice,Dynamic,LearningExp,QID28_5,4.0,5. The dynamic ghost hand motivated me to continue learning.
+User8,Practice,Dynamic,LearningExp,QID28_5,5.0,5. The dynamic ghost hand motivated me to continue learning.
+User9,Practice,Dynamic,LearningExp,QID28_5,5.0,5. The dynamic ghost hand motivated me to continue learning.
+User10,Practice,Dynamic,LearningExp,QID28_5,3.0,5. The dynamic ghost hand motivated me to continue learning.
+User11,Practice,Dynamic,LearningExp,QID28_5,5.0,5. The dynamic ghost hand motivated me to continue learning.
+User12,Practice,Dynamic,LearningExp,QID28_5,5.0,5. The dynamic ghost hand motivated me to continue learning.
+User13,Practice,Dynamic,LearningExp,QID28_5,5.0,5. The dynamic ghost hand motivated me to continue learning.
+User14,Practice,Dynamic,LearningExp,QID28_5,5.0,5. The dynamic ghost hand motivated me to continue learning.
+User15,Practice,Dynamic,LearningExp,QID28_5,5.0,5. The dynamic ghost hand motivated me to continue learning.
+User16,Practice,Dynamic,LearningExp,QID28_5,3.0,5. The dynamic ghost hand motivated me to continue learning.
+User17,Practice,Dynamic,LearningExp,QID28_5,3.0,5. The dynamic ghost hand motivated me to continue learning.
+User18,Practice,Dynamic,LearningExp,QID28_5,4.0,5. The dynamic ghost hand motivated me to continue learning.
+User19,Practice,Dynamic,LearningExp,QID28_5,3.0,5. The dynamic ghost hand motivated me to continue learning.
+User20,Practice,Dynamic,LearningExp,QID28_5,4.0,5. The dynamic ghost hand motivated me to continue learning.
+User21,Practice,Dynamic,LearningExp,QID28_5,4.0,5. The dynamic ghost hand motivated me to continue learning.
+User22,Practice,Dynamic,LearningExp,QID28_5,3.0,5. The dynamic ghost hand motivated me to continue learning.
+User23,Practice,Dynamic,LearningExp,QID28_5,5.0,5. The dynamic ghost hand motivated me to continue learning.
+User24,Practice,Dynamic,LearningExp,QID28_5,3.0,5. The dynamic ghost hand motivated me to continue learning.
+User25,Practice,Dynamic,LearningExp,QID28_5,4.0,5. The dynamic ghost hand motivated me to continue learning.
+User26,Practice,Dynamic,LearningExp,QID28_5,4.0,5. The dynamic ghost hand motivated me to continue learning.
+User27,Practice,Dynamic,LearningExp,QID28_5,4.0,5. The dynamic ghost hand motivated me to continue learning.
+User28,Practice,Dynamic,LearningExp,QID28_5,5.0,5. The dynamic ghost hand motivated me to continue learning.
+User29,Practice,Dynamic,LearningExp,QID28_5,5.0,5. The dynamic ghost hand motivated me to continue learning.
+User30,Practice,Dynamic,LearningExp,QID28_5,4.0,5. The dynamic ghost hand motivated me to continue learning.
+User1,Practice,Dynamic,LearningExp,QID28_6,5.0,6. The dynamic ghost hand helped me stay focused while playing.
+User2,Practice,Dynamic,LearningExp,QID28_6,4.0,6. The dynamic ghost hand helped me stay focused while playing.
+User3,Practice,Dynamic,LearningExp,QID28_6,5.0,6. The dynamic ghost hand helped me stay focused while playing.
+User4,Practice,Dynamic,LearningExp,QID28_6,5.0,6. The dynamic ghost hand helped me stay focused while playing.
+User5,Practice,Dynamic,LearningExp,QID28_6,4.0,6. The dynamic ghost hand helped me stay focused while playing.
+User6,Practice,Dynamic,LearningExp,QID28_6,5.0,6. The dynamic ghost hand helped me stay focused while playing.
+User7,Practice,Dynamic,LearningExp,QID28_6,5.0,6. The dynamic ghost hand helped me stay focused while playing.
+User8,Practice,Dynamic,LearningExp,QID28_6,4.0,6. The dynamic ghost hand helped me stay focused while playing.
+User9,Practice,Dynamic,LearningExp,QID28_6,5.0,6. The dynamic ghost hand helped me stay focused while playing.
+User10,Practice,Dynamic,LearningExp,QID28_6,4.0,6. The dynamic ghost hand helped me stay focused while playing.
+User11,Practice,Dynamic,LearningExp,QID28_6,4.0,6. The dynamic ghost hand helped me stay focused while playing.
+User12,Practice,Dynamic,LearningExp,QID28_6,4.0,6. The dynamic ghost hand helped me stay focused while playing.
+User13,Practice,Dynamic,LearningExp,QID28_6,4.0,6. The dynamic ghost hand helped me stay focused while playing.
+User14,Practice,Dynamic,LearningExp,QID28_6,4.0,6. The dynamic ghost hand helped me stay focused while playing.
+User15,Practice,Dynamic,LearningExp,QID28_6,5.0,6. The dynamic ghost hand helped me stay focused while playing.
+User16,Practice,Dynamic,LearningExp,QID28_6,4.0,6. The dynamic ghost hand helped me stay focused while playing.
+User17,Practice,Dynamic,LearningExp,QID28_6,4.0,6. The dynamic ghost hand helped me stay focused while playing.
+User18,Practice,Dynamic,LearningExp,QID28_6,4.0,6. The dynamic ghost hand helped me stay focused while playing.
+User19,Practice,Dynamic,LearningExp,QID28_6,4.0,6. The dynamic ghost hand helped me stay focused while playing.
+User20,Practice,Dynamic,LearningExp,QID28_6,5.0,6. The dynamic ghost hand helped me stay focused while playing.
+User21,Practice,Dynamic,LearningExp,QID28_6,5.0,6. The dynamic ghost hand helped me stay focused while playing.
+User22,Practice,Dynamic,LearningExp,QID28_6,4.0,6. The dynamic ghost hand helped me stay focused while playing.
+User23,Practice,Dynamic,LearningExp,QID28_6,4.0,6. The dynamic ghost hand helped me stay focused while playing.
+User24,Practice,Dynamic,LearningExp,QID28_6,1.0,6. The dynamic ghost hand helped me stay focused while playing.
+User25,Practice,Dynamic,LearningExp,QID28_6,3.0,6. The dynamic ghost hand helped me stay focused while playing.
+User26,Practice,Dynamic,LearningExp,QID28_6,4.0,6. The dynamic ghost hand helped me stay focused while playing.
+User27,Practice,Dynamic,LearningExp,QID28_6,4.0,6. The dynamic ghost hand helped me stay focused while playing.
+User28,Practice,Dynamic,LearningExp,QID28_6,4.0,6. The dynamic ghost hand helped me stay focused while playing.
+User29,Practice,Dynamic,LearningExp,QID28_6,5.0,6. The dynamic ghost hand helped me stay focused while playing.
+User30,Practice,Dynamic,LearningExp,QID28_6,5.0,6. The dynamic ghost hand helped me stay focused while playing.
+User1,Practice,Dynamic,LearningExp,QID28_7,4.0,7. The dynamic ghost hand distracted me during playing.
+User2,Practice,Dynamic,LearningExp,QID28_7,5.0,7. The dynamic ghost hand distracted me during playing.
+User3,Practice,Dynamic,LearningExp,QID28_7,5.0,7. The dynamic ghost hand distracted me during playing.
+User4,Practice,Dynamic,LearningExp,QID28_7,4.0,7. The dynamic ghost hand distracted me during playing.
+User5,Practice,Dynamic,LearningExp,QID28_7,3.0,7. The dynamic ghost hand distracted me during playing.
+User6,Practice,Dynamic,LearningExp,QID28_7,5.0,7. The dynamic ghost hand distracted me during playing.
+User7,Practice,Dynamic,LearningExp,QID28_7,5.0,7. The dynamic ghost hand distracted me during playing.
+User8,Practice,Dynamic,LearningExp,QID28_7,4.0,7. The dynamic ghost hand distracted me during playing.
+User9,Practice,Dynamic,LearningExp,QID28_7,5.0,7. The dynamic ghost hand distracted me during playing.
+User10,Practice,Dynamic,LearningExp,QID28_7,3.0,7. The dynamic ghost hand distracted me during playing.
+User11,Practice,Dynamic,LearningExp,QID28_7,5.0,7. The dynamic ghost hand distracted me during playing.
+User12,Practice,Dynamic,LearningExp,QID28_7,5.0,7. The dynamic ghost hand distracted me during playing.
+User13,Practice,Dynamic,LearningExp,QID28_7,4.0,7. The dynamic ghost hand distracted me during playing.
+User14,Practice,Dynamic,LearningExp,QID28_7,5.0,7. The dynamic ghost hand distracted me during playing.
+User15,Practice,Dynamic,LearningExp,QID28_7,5.0,7. The dynamic ghost hand distracted me during playing.
+User16,Practice,Dynamic,LearningExp,QID28_7,5.0,7. The dynamic ghost hand distracted me during playing.
+User17,Practice,Dynamic,LearningExp,QID28_7,4.0,7. The dynamic ghost hand distracted me during playing.
+User18,Practice,Dynamic,LearningExp,QID28_7,5.0,7. The dynamic ghost hand distracted me during playing.
+User19,Practice,Dynamic,LearningExp,QID28_7,4.0,7. The dynamic ghost hand distracted me during playing.
+User20,Practice,Dynamic,LearningExp,QID28_7,4.0,7. The dynamic ghost hand distracted me during playing.
+User21,Practice,Dynamic,LearningExp,QID28_7,4.0,7. The dynamic ghost hand distracted me during playing.
+User22,Practice,Dynamic,LearningExp,QID28_7,3.0,7. The dynamic ghost hand distracted me during playing.
+User23,Practice,Dynamic,LearningExp,QID28_7,4.0,7. The dynamic ghost hand distracted me during playing.
+User24,Practice,Dynamic,LearningExp,QID28_7,1.0,7. The dynamic ghost hand distracted me during playing.
+User25,Practice,Dynamic,LearningExp,QID28_7,5.0,7. The dynamic ghost hand distracted me during playing.
+User26,Practice,Dynamic,LearningExp,QID28_7,4.0,7. The dynamic ghost hand distracted me during playing.
+User27,Practice,Dynamic,LearningExp,QID28_7,4.0,7. The dynamic ghost hand distracted me during playing.
+User28,Practice,Dynamic,LearningExp,QID28_7,3.0,7. The dynamic ghost hand distracted me during playing.
+User29,Practice,Dynamic,LearningExp,QID28_7,3.0,7. The dynamic ghost hand distracted me during playing.
+User30,Practice,Dynamic,LearningExp,QID28_7,3.0,7. The dynamic ghost hand distracted me during playing.
+User1,Practice,Dynamic,VisualDesign,QID8_1,5.0,8. The transparency of the dynamic ghost hand was appropriate.
+User2,Practice,Dynamic,VisualDesign,QID8_1,4.0,8. The transparency of the dynamic ghost hand was appropriate.
+User3,Practice,Dynamic,VisualDesign,QID8_1,4.0,8. The transparency of the dynamic ghost hand was appropriate.
+User4,Practice,Dynamic,VisualDesign,QID8_1,4.0,8. The transparency of the dynamic ghost hand was appropriate.
+User5,Practice,Dynamic,VisualDesign,QID8_1,2.0,8. The transparency of the dynamic ghost hand was appropriate.
+User6,Practice,Dynamic,VisualDesign,QID8_1,4.0,8. The transparency of the dynamic ghost hand was appropriate.
+User7,Practice,Dynamic,VisualDesign,QID8_1,5.0,8. The transparency of the dynamic ghost hand was appropriate.
+User8,Practice,Dynamic,VisualDesign,QID8_1,4.0,8. The transparency of the dynamic ghost hand was appropriate.
+User9,Practice,Dynamic,VisualDesign,QID8_1,4.0,8. The transparency of the dynamic ghost hand was appropriate.
+User10,Practice,Dynamic,VisualDesign,QID8_1,3.0,8. The transparency of the dynamic ghost hand was appropriate.
+User11,Practice,Dynamic,VisualDesign,QID8_1,4.0,8. The transparency of the dynamic ghost hand was appropriate.
+User12,Practice,Dynamic,VisualDesign,QID8_1,5.0,8. The transparency of the dynamic ghost hand was appropriate.
+User13,Practice,Dynamic,VisualDesign,QID8_1,4.0,8. The transparency of the dynamic ghost hand was appropriate.
+User14,Practice,Dynamic,VisualDesign,QID8_1,4.0,8. The transparency of the dynamic ghost hand was appropriate.
+User15,Practice,Dynamic,VisualDesign,QID8_1,5.0,8. The transparency of the dynamic ghost hand was appropriate.
+User16,Practice,Dynamic,VisualDesign,QID8_1,1.0,8. The transparency of the dynamic ghost hand was appropriate.
+User17,Practice,Dynamic,VisualDesign,QID8_1,4.0,8. The transparency of the dynamic ghost hand was appropriate.
+User18,Practice,Dynamic,VisualDesign,QID8_1,4.0,8. The transparency of the dynamic ghost hand was appropriate.
+User19,Practice,Dynamic,VisualDesign,QID8_1,4.0,8. The transparency of the dynamic ghost hand was appropriate.
+User20,Practice,Dynamic,VisualDesign,QID8_1,4.0,8. The transparency of the dynamic ghost hand was appropriate.
+User21,Practice,Dynamic,VisualDesign,QID8_1,4.0,8. The transparency of the dynamic ghost hand was appropriate.
+User22,Practice,Dynamic,VisualDesign,QID8_1,4.0,8. The transparency of the dynamic ghost hand was appropriate.
+User23,Practice,Dynamic,VisualDesign,QID8_1,5.0,8. The transparency of the dynamic ghost hand was appropriate.
+User24,Practice,Dynamic,VisualDesign,QID8_1,2.0,8. The transparency of the dynamic ghost hand was appropriate.
+User25,Practice,Dynamic,VisualDesign,QID8_1,3.0,8. The transparency of the dynamic ghost hand was appropriate.
+User26,Practice,Dynamic,VisualDesign,QID8_1,4.0,8. The transparency of the dynamic ghost hand was appropriate.
+User27,Practice,Dynamic,VisualDesign,QID8_1,3.0,8. The transparency of the dynamic ghost hand was appropriate.
+User28,Practice,Dynamic,VisualDesign,QID8_1,3.0,8. The transparency of the dynamic ghost hand was appropriate.
+User29,Practice,Dynamic,VisualDesign,QID8_1,5.0,8. The transparency of the dynamic ghost hand was appropriate.
+User30,Practice,Dynamic,VisualDesign,QID8_1,3.0,8. The transparency of the dynamic ghost hand was appropriate.
+User1,Practice,Dynamic,VisualDesign,QID8_2,5.0,9. The changing transparency of the dynamic ghost hand (in dynamic conditions) helped me focus better.
+User2,Practice,Dynamic,VisualDesign,QID8_2,3.0,9. The changing transparency of the dynamic ghost hand (in dynamic conditions) helped me focus better.
+User3,Practice,Dynamic,VisualDesign,QID8_2,3.0,9. The changing transparency of the dynamic ghost hand (in dynamic conditions) helped me focus better.
+User4,Practice,Dynamic,VisualDesign,QID8_2,4.0,9. The changing transparency of the dynamic ghost hand (in dynamic conditions) helped me focus better.
+User5,Practice,Dynamic,VisualDesign,QID8_2,3.0,9. The changing transparency of the dynamic ghost hand (in dynamic conditions) helped me focus better.
+User6,Practice,Dynamic,VisualDesign,QID8_2,3.0,9. The changing transparency of the dynamic ghost hand (in dynamic conditions) helped me focus better.
+User7,Practice,Dynamic,VisualDesign,QID8_2,4.0,9. The changing transparency of the dynamic ghost hand (in dynamic conditions) helped me focus better.
+User8,Practice,Dynamic,VisualDesign,QID8_2,2.0,9. The changing transparency of the dynamic ghost hand (in dynamic conditions) helped me focus better.
+User9,Practice,Dynamic,VisualDesign,QID8_2,4.0,9. The changing transparency of the dynamic ghost hand (in dynamic conditions) helped me focus better.
+User10,Practice,Dynamic,VisualDesign,QID8_2,3.0,9. The changing transparency of the dynamic ghost hand (in dynamic conditions) helped me focus better.
+User11,Practice,Dynamic,VisualDesign,QID8_2,4.0,9. The changing transparency of the dynamic ghost hand (in dynamic conditions) helped me focus better.
+User12,Practice,Dynamic,VisualDesign,QID8_2,5.0,9. The changing transparency of the dynamic ghost hand (in dynamic conditions) helped me focus better.
+User13,Practice,Dynamic,VisualDesign,QID8_2,3.0,9. The changing transparency of the dynamic ghost hand (in dynamic conditions) helped me focus better.
+User14,Practice,Dynamic,VisualDesign,QID8_2,4.0,9. The changing transparency of the dynamic ghost hand (in dynamic conditions) helped me focus better.
+User15,Practice,Dynamic,VisualDesign,QID8_2,4.0,9. The changing transparency of the dynamic ghost hand (in dynamic conditions) helped me focus better.
+User16,Practice,Dynamic,VisualDesign,QID8_2,1.0,9. The changing transparency of the dynamic ghost hand (in dynamic conditions) helped me focus better.
+User17,Practice,Dynamic,VisualDesign,QID8_2,4.0,9. The changing transparency of the dynamic ghost hand (in dynamic conditions) helped me focus better.
+User18,Practice,Dynamic,VisualDesign,QID8_2,4.0,9. The changing transparency of the dynamic ghost hand (in dynamic conditions) helped me focus better.
+User19,Practice,Dynamic,VisualDesign,QID8_2,5.0,9. The changing transparency of the dynamic ghost hand (in dynamic conditions) helped me focus better.
+User20,Practice,Dynamic,VisualDesign,QID8_2,3.0,9. The changing transparency of the dynamic ghost hand (in dynamic conditions) helped me focus better.
+User21,Practice,Dynamic,VisualDesign,QID8_2,4.0,9. The changing transparency of the dynamic ghost hand (in dynamic conditions) helped me focus better.
+User22,Practice,Dynamic,VisualDesign,QID8_2,3.0,9. The changing transparency of the dynamic ghost hand (in dynamic conditions) helped me focus better.
+User23,Practice,Dynamic,VisualDesign,QID8_2,5.0,9. The changing transparency of the dynamic ghost hand (in dynamic conditions) helped me focus better.
+User24,Practice,Dynamic,VisualDesign,QID8_2,2.0,9. The changing transparency of the dynamic ghost hand (in dynamic conditions) helped me focus better.
+User25,Practice,Dynamic,VisualDesign,QID8_2,3.0,9. The changing transparency of the dynamic ghost hand (in dynamic conditions) helped me focus better.
+User26,Practice,Dynamic,VisualDesign,QID8_2,4.0,9. The changing transparency of the dynamic ghost hand (in dynamic conditions) helped me focus better.
+User27,Practice,Dynamic,VisualDesign,QID8_2,2.0,9. The changing transparency of the dynamic ghost hand (in dynamic conditions) helped me focus better.
+User28,Practice,Dynamic,VisualDesign,QID8_2,2.0,9. The changing transparency of the dynamic ghost hand (in dynamic conditions) helped me focus better.
+User29,Practice,Dynamic,VisualDesign,QID8_2,5.0,9. The changing transparency of the dynamic ghost hand (in dynamic conditions) helped me focus better.
+User30,Practice,Dynamic,VisualDesign,QID8_2,3.0,9. The changing transparency of the dynamic ghost hand (in dynamic conditions) helped me focus better.
+User1,Practice,Dynamic,VisualDesign,QID8_3,3.0,"10. I prefer dynamic ghost hand that adapts based on my performance (e.g., becomes more or less visible)."
+User2,Practice,Dynamic,VisualDesign,QID8_3,3.0,"10. I prefer dynamic ghost hand that adapts based on my performance (e.g., becomes more or less visible)."
+User3,Practice,Dynamic,VisualDesign,QID8_3,3.0,"10. I prefer dynamic ghost hand that adapts based on my performance (e.g., becomes more or less visible)."
+User4,Practice,Dynamic,VisualDesign,QID8_3,5.0,"10. I prefer dynamic ghost hand that adapts based on my performance (e.g., becomes more or less visible)."
+User5,Practice,Dynamic,VisualDesign,QID8_3,4.0,"10. I prefer dynamic ghost hand that adapts based on my performance (e.g., becomes more or less visible)."
+User6,Practice,Dynamic,VisualDesign,QID8_3,4.0,"10. I prefer dynamic ghost hand that adapts based on my performance (e.g., becomes more or less visible)."
+User7,Practice,Dynamic,VisualDesign,QID8_3,4.0,"10. I prefer dynamic ghost hand that adapts based on my performance (e.g., becomes more or less visible)."
+User8,Practice,Dynamic,VisualDesign,QID8_3,2.0,"10. I prefer dynamic ghost hand that adapts based on my performance (e.g., becomes more or less visible)."
+User9,Practice,Dynamic,VisualDesign,QID8_3,3.0,"10. I prefer dynamic ghost hand that adapts based on my performance (e.g., becomes more or less visible)."
+User10,Practice,Dynamic,VisualDesign,QID8_3,3.0,"10. I prefer dynamic ghost hand that adapts based on my performance (e.g., becomes more or less visible)."
+User11,Practice,Dynamic,VisualDesign,QID8_3,4.0,"10. I prefer dynamic ghost hand that adapts based on my performance (e.g., becomes more or less visible)."
+User12,Practice,Dynamic,VisualDesign,QID8_3,3.0,"10. I prefer dynamic ghost hand that adapts based on my performance (e.g., becomes more or less visible)."
+User13,Practice,Dynamic,VisualDesign,QID8_3,3.0,"10. I prefer dynamic ghost hand that adapts based on my performance (e.g., becomes more or less visible)."
+User14,Practice,Dynamic,VisualDesign,QID8_3,4.0,"10. I prefer dynamic ghost hand that adapts based on my performance (e.g., becomes more or less visible)."
+User15,Practice,Dynamic,VisualDesign,QID8_3,5.0,"10. I prefer dynamic ghost hand that adapts based on my performance (e.g., becomes more or less visible)."
+User16,Practice,Dynamic,VisualDesign,QID8_3,3.0,"10. I prefer dynamic ghost hand that adapts based on my performance (e.g., becomes more or less visible)."
+User17,Practice,Dynamic,VisualDesign,QID8_3,4.0,"10. I prefer dynamic ghost hand that adapts based on my performance (e.g., becomes more or less visible)."
+User18,Practice,Dynamic,VisualDesign,QID8_3,4.0,"10. I prefer dynamic ghost hand that adapts based on my performance (e.g., becomes more or less visible)."
+User19,Practice,Dynamic,VisualDesign,QID8_3,5.0,"10. I prefer dynamic ghost hand that adapts based on my performance (e.g., becomes more or less visible)."
+User20,Practice,Dynamic,VisualDesign,QID8_3,4.0,"10. I prefer dynamic ghost hand that adapts based on my performance (e.g., becomes more or less visible)."
+User21,Practice,Dynamic,VisualDesign,QID8_3,5.0,"10. I prefer dynamic ghost hand that adapts based on my performance (e.g., becomes more or less visible)."
+User22,Practice,Dynamic,VisualDesign,QID8_3,4.0,"10. I prefer dynamic ghost hand that adapts based on my performance (e.g., becomes more or less visible)."
+User23,Practice,Dynamic,VisualDesign,QID8_3,5.0,"10. I prefer dynamic ghost hand that adapts based on my performance (e.g., becomes more or less visible)."
+User24,Practice,Dynamic,VisualDesign,QID8_3,3.0,"10. I prefer dynamic ghost hand that adapts based on my performance (e.g., becomes more or less visible)."
+User25,Practice,Dynamic,VisualDesign,QID8_3,3.0,"10. I prefer dynamic ghost hand that adapts based on my performance (e.g., becomes more or less visible)."
+User26,Practice,Dynamic,VisualDesign,QID8_3,4.0,"10. I prefer dynamic ghost hand that adapts based on my performance (e.g., becomes more or less visible)."
+User27,Practice,Dynamic,VisualDesign,QID8_3,3.0,"10. I prefer dynamic ghost hand that adapts based on my performance (e.g., becomes more or less visible)."
+User28,Practice,Dynamic,VisualDesign,QID8_3,2.0,"10. I prefer dynamic ghost hand that adapts based on my performance (e.g., becomes more or less visible)."
+User29,Practice,Dynamic,VisualDesign,QID8_3,5.0,"10. I prefer dynamic ghost hand that adapts based on my performance (e.g., becomes more or less visible)."
+User30,Practice,Dynamic,VisualDesign,QID8_3,4.0,"10. I prefer dynamic ghost hand that adapts based on my performance (e.g., becomes more or less visible)."
+User1,Practice,Dynamic,VisualDesign,QID8_4,3.0,11. The dynamic ghost hand's transparency changes were noticeable and understandable.
+User2,Practice,Dynamic,VisualDesign,QID8_4,1.0,11. The dynamic ghost hand's transparency changes were noticeable and understandable.
+User3,Practice,Dynamic,VisualDesign,QID8_4,2.0,11. The dynamic ghost hand's transparency changes were noticeable and understandable.
+User4,Practice,Dynamic,VisualDesign,QID8_4,3.0,11. The dynamic ghost hand's transparency changes were noticeable and understandable.
+User5,Practice,Dynamic,VisualDesign,QID8_4,3.0,11. The dynamic ghost hand's transparency changes were noticeable and understandable.
+User6,Practice,Dynamic,VisualDesign,QID8_4,1.0,11. The dynamic ghost hand's transparency changes were noticeable and understandable.
+User7,Practice,Dynamic,VisualDesign,QID8_4,2.0,11. The dynamic ghost hand's transparency changes were noticeable and understandable.
+User8,Practice,Dynamic,VisualDesign,QID8_4,1.0,11. The dynamic ghost hand's transparency changes were noticeable and understandable.
+User9,Practice,Dynamic,VisualDesign,QID8_4,3.0,11. The dynamic ghost hand's transparency changes were noticeable and understandable.
+User10,Practice,Dynamic,VisualDesign,QID8_4,2.0,11. The dynamic ghost hand's transparency changes were noticeable and understandable.
+User11,Practice,Dynamic,VisualDesign,QID8_4,3.0,11. The dynamic ghost hand's transparency changes were noticeable and understandable.
+User12,Practice,Dynamic,VisualDesign,QID8_4,2.0,11. The dynamic ghost hand's transparency changes were noticeable and understandable.
+User13,Practice,Dynamic,VisualDesign,QID8_4,3.0,11. The dynamic ghost hand's transparency changes were noticeable and understandable.
+User14,Practice,Dynamic,VisualDesign,QID8_4,3.0,11. The dynamic ghost hand's transparency changes were noticeable and understandable.
+User15,Practice,Dynamic,VisualDesign,QID8_4,5.0,11. The dynamic ghost hand's transparency changes were noticeable and understandable.
+User16,Practice,Dynamic,VisualDesign,QID8_4,1.0,11. The dynamic ghost hand's transparency changes were noticeable and understandable.
+User17,Practice,Dynamic,VisualDesign,QID8_4,4.0,11. The dynamic ghost hand's transparency changes were noticeable and understandable.
+User18,Practice,Dynamic,VisualDesign,QID8_4,3.0,11. The dynamic ghost hand's transparency changes were noticeable and understandable.
+User19,Practice,Dynamic,VisualDesign,QID8_4,3.0,11. The dynamic ghost hand's transparency changes were noticeable and understandable.
+User20,Practice,Dynamic,VisualDesign,QID8_4,2.0,11. The dynamic ghost hand's transparency changes were noticeable and understandable.
+User21,Practice,Dynamic,VisualDesign,QID8_4,3.0,11. The dynamic ghost hand's transparency changes were noticeable and understandable.
+User22,Practice,Dynamic,VisualDesign,QID8_4,3.0,11. The dynamic ghost hand's transparency changes were noticeable and understandable.
+User23,Practice,Dynamic,VisualDesign,QID8_4,5.0,11. The dynamic ghost hand's transparency changes were noticeable and understandable.
+User24,Practice,Dynamic,VisualDesign,QID8_4,3.0,11. The dynamic ghost hand's transparency changes were noticeable and understandable.
+User25,Practice,Dynamic,VisualDesign,QID8_4,2.0,11. The dynamic ghost hand's transparency changes were noticeable and understandable.
+User26,Practice,Dynamic,VisualDesign,QID8_4,4.0,11. The dynamic ghost hand's transparency changes were noticeable and understandable.
+User27,Practice,Dynamic,VisualDesign,QID8_4,1.0,11. The dynamic ghost hand's transparency changes were noticeable and understandable.
+User28,Practice,Dynamic,VisualDesign,QID8_4,4.0,11. The dynamic ghost hand's transparency changes were noticeable and understandable.
+User29,Practice,Dynamic,VisualDesign,QID8_4,4.0,11. The dynamic ghost hand's transparency changes were noticeable and understandable.
+User30,Practice,Dynamic,VisualDesign,QID8_4,4.0,11. The dynamic ghost hand's transparency changes were noticeable and understandable.
+User1,Recall,Static,Retention,QID27_1,4.0,1. I was able to remember the melodies well after the break when using the static transparent ghost hand guidance.
+User2,Recall,Static,Retention,QID27_1,4.0,1. I was able to remember the melodies well after the break when using the static transparent ghost hand guidance.
+User3,Recall,Static,Retention,QID27_1,4.0,1. I was able to remember the melodies well after the break when using the static transparent ghost hand guidance.
+User4,Recall,Static,Retention,QID27_1,3.0,1. I was able to remember the melodies well after the break when using the static transparent ghost hand guidance.
+User5,Recall,Static,Retention,QID27_1,3.0,1. I was able to remember the melodies well after the break when using the static transparent ghost hand guidance.
+User6,Recall,Static,Retention,QID27_1,3.0,1. I was able to remember the melodies well after the break when using the static transparent ghost hand guidance.
+User7,Recall,Static,Retention,QID27_1,3.0,1. I was able to remember the melodies well after the break when using the static transparent ghost hand guidance.
+User8,Recall,Static,Retention,QID27_1,4.0,1. I was able to remember the melodies well after the break when using the static transparent ghost hand guidance.
+User9,Recall,Static,Retention,QID27_1,4.0,1. I was able to remember the melodies well after the break when using the static transparent ghost hand guidance.
+User10,Recall,Static,Retention,QID27_1,5.0,1. I was able to remember the melodies well after the break when using the static transparent ghost hand guidance.
+User11,Recall,Static,Retention,QID27_1,4.0,1. I was able to remember the melodies well after the break when using the static transparent ghost hand guidance.
+User12,Recall,Static,Retention,QID27_1,4.0,1. I was able to remember the melodies well after the break when using the static transparent ghost hand guidance.
+User13,Recall,Static,Retention,QID27_1,3.0,1. I was able to remember the melodies well after the break when using the static transparent ghost hand guidance.
+User14,Recall,Static,Retention,QID27_1,3.0,1. I was able to remember the melodies well after the break when using the static transparent ghost hand guidance.
+User15,Recall,Static,Retention,QID27_1,2.0,1. I was able to remember the melodies well after the break when using the static transparent ghost hand guidance.
+User16,Recall,Static,Retention,QID27_1,3.0,1. I was able to remember the melodies well after the break when using the static transparent ghost hand guidance.
+User17,Recall,Static,Retention,QID27_1,4.0,1. I was able to remember the melodies well after the break when using the static transparent ghost hand guidance.
+User18,Recall,Static,Retention,QID27_1,4.0,1. I was able to remember the melodies well after the break when using the static transparent ghost hand guidance.
+User19,Recall,Static,Retention,QID27_1,4.0,1. I was able to remember the melodies well after the break when using the static transparent ghost hand guidance.
+User20,Recall,Static,Retention,QID27_1,4.0,1. I was able to remember the melodies well after the break when using the static transparent ghost hand guidance.
+User21,Recall,Static,Retention,QID27_1,4.0,1. I was able to remember the melodies well after the break when using the static transparent ghost hand guidance.
+User22,Recall,Static,Retention,QID27_1,4.0,1. I was able to remember the melodies well after the break when using the static transparent ghost hand guidance.
+User23,Recall,Static,Retention,QID27_1,4.0,1. I was able to remember the melodies well after the break when using the static transparent ghost hand guidance.
+User24,Recall,Static,Retention,QID27_1,5.0,1. I was able to remember the melodies well after the break when using the static transparent ghost hand guidance.
+User25,Recall,Static,Retention,QID27_1,4.0,1. I was able to remember the melodies well after the break when using the static transparent ghost hand guidance.
+User26,Recall,Static,Retention,QID27_1,2.0,1. I was able to remember the melodies well after the break when using the static transparent ghost hand guidance.
+User27,Recall,Static,Retention,QID27_1,3.0,1. I was able to remember the melodies well after the break when using the static transparent ghost hand guidance.
+User28,Recall,Static,Retention,QID27_1,4.0,1. I was able to remember the melodies well after the break when using the static transparent ghost hand guidance.
+User29,Recall,Static,Retention,QID27_1,4.0,1. I was able to remember the melodies well after the break when using the static transparent ghost hand guidance.
+User30,Recall,Static,Retention,QID27_1,4.0,1. I was able to remember the melodies well after the break when using the static transparent ghost hand guidance.
+User1,Recall,Static,Retention,QID27_2,5.0,2. I felt confident when playing the melodies during the retention test with the static ghost hand guidance.
+User2,Recall,Static,Retention,QID27_2,4.0,2. I felt confident when playing the melodies during the retention test with the static ghost hand guidance.
+User3,Recall,Static,Retention,QID27_2,4.0,2. I felt confident when playing the melodies during the retention test with the static ghost hand guidance.
+User4,Recall,Static,Retention,QID27_2,3.0,2. I felt confident when playing the melodies during the retention test with the static ghost hand guidance.
+User5,Recall,Static,Retention,QID27_2,3.0,2. I felt confident when playing the melodies during the retention test with the static ghost hand guidance.
+User6,Recall,Static,Retention,QID27_2,2.0,2. I felt confident when playing the melodies during the retention test with the static ghost hand guidance.
+User7,Recall,Static,Retention,QID27_2,2.0,2. I felt confident when playing the melodies during the retention test with the static ghost hand guidance.
+User8,Recall,Static,Retention,QID27_2,3.0,2. I felt confident when playing the melodies during the retention test with the static ghost hand guidance.
+User9,Recall,Static,Retention,QID27_2,4.0,2. I felt confident when playing the melodies during the retention test with the static ghost hand guidance.
+User10,Recall,Static,Retention,QID27_2,4.0,2. I felt confident when playing the melodies during the retention test with the static ghost hand guidance.
+User11,Recall,Static,Retention,QID27_2,3.0,2. I felt confident when playing the melodies during the retention test with the static ghost hand guidance.
+User12,Recall,Static,Retention,QID27_2,4.0,2. I felt confident when playing the melodies during the retention test with the static ghost hand guidance.
+User13,Recall,Static,Retention,QID27_2,3.0,2. I felt confident when playing the melodies during the retention test with the static ghost hand guidance.
+User14,Recall,Static,Retention,QID27_2,4.0,2. I felt confident when playing the melodies during the retention test with the static ghost hand guidance.
+User15,Recall,Static,Retention,QID27_2,2.0,2. I felt confident when playing the melodies during the retention test with the static ghost hand guidance.
+User16,Recall,Static,Retention,QID27_2,2.0,2. I felt confident when playing the melodies during the retention test with the static ghost hand guidance.
+User17,Recall,Static,Retention,QID27_2,4.0,2. I felt confident when playing the melodies during the retention test with the static ghost hand guidance.
+User18,Recall,Static,Retention,QID27_2,4.0,2. I felt confident when playing the melodies during the retention test with the static ghost hand guidance.
+User19,Recall,Static,Retention,QID27_2,5.0,2. I felt confident when playing the melodies during the retention test with the static ghost hand guidance.
+User20,Recall,Static,Retention,QID27_2,3.0,2. I felt confident when playing the melodies during the retention test with the static ghost hand guidance.
+User21,Recall,Static,Retention,QID27_2,3.0,2. I felt confident when playing the melodies during the retention test with the static ghost hand guidance.
+User22,Recall,Static,Retention,QID27_2,3.0,2. I felt confident when playing the melodies during the retention test with the static ghost hand guidance.
+User23,Recall,Static,Retention,QID27_2,4.0,2. I felt confident when playing the melodies during the retention test with the static ghost hand guidance.
+User24,Recall,Static,Retention,QID27_2,5.0,2. I felt confident when playing the melodies during the retention test with the static ghost hand guidance.
+User25,Recall,Static,Retention,QID27_2,4.0,2. I felt confident when playing the melodies during the retention test with the static ghost hand guidance.
+User26,Recall,Static,Retention,QID27_2,3.0,2. I felt confident when playing the melodies during the retention test with the static ghost hand guidance.
+User27,Recall,Static,Retention,QID27_2,4.0,2. I felt confident when playing the melodies during the retention test with the static ghost hand guidance.
+User28,Recall,Static,Retention,QID27_2,3.0,2. I felt confident when playing the melodies during the retention test with the static ghost hand guidance.
+User29,Recall,Static,Retention,QID27_2,4.0,2. I felt confident when playing the melodies during the retention test with the static ghost hand guidance.
+User30,Recall,Static,Retention,QID27_2,4.0,2. I felt confident when playing the melodies during the retention test with the static ghost hand guidance.
+User1,Recall,Static,Retention,QID27_3,3.0,3. The static transparent ghost hand guidance helped me retain the melodies over time.
+User2,Recall,Static,Retention,QID27_3,4.0,3. The static transparent ghost hand guidance helped me retain the melodies over time.
+User3,Recall,Static,Retention,QID27_3,3.0,3. The static transparent ghost hand guidance helped me retain the melodies over time.
+User4,Recall,Static,Retention,QID27_3,3.0,3. The static transparent ghost hand guidance helped me retain the melodies over time.
+User5,Recall,Static,Retention,QID27_3,2.0,3. The static transparent ghost hand guidance helped me retain the melodies over time.
+User6,Recall,Static,Retention,QID27_3,2.0,3. The static transparent ghost hand guidance helped me retain the melodies over time.
+User7,Recall,Static,Retention,QID27_3,3.0,3. The static transparent ghost hand guidance helped me retain the melodies over time.
+User8,Recall,Static,Retention,QID27_3,3.0,3. The static transparent ghost hand guidance helped me retain the melodies over time.
+User9,Recall,Static,Retention,QID27_3,4.0,3. The static transparent ghost hand guidance helped me retain the melodies over time.
+User10,Recall,Static,Retention,QID27_3,4.0,3. The static transparent ghost hand guidance helped me retain the melodies over time.
+User11,Recall,Static,Retention,QID27_3,3.0,3. The static transparent ghost hand guidance helped me retain the melodies over time.
+User12,Recall,Static,Retention,QID27_3,2.0,3. The static transparent ghost hand guidance helped me retain the melodies over time.
+User13,Recall,Static,Retention,QID27_3,3.0,3. The static transparent ghost hand guidance helped me retain the melodies over time.
+User14,Recall,Static,Retention,QID27_3,3.0,3. The static transparent ghost hand guidance helped me retain the melodies over time.
+User15,Recall,Static,Retention,QID27_3,3.0,3. The static transparent ghost hand guidance helped me retain the melodies over time.
+User16,Recall,Static,Retention,QID27_3,3.0,3. The static transparent ghost hand guidance helped me retain the melodies over time.
+User17,Recall,Static,Retention,QID27_3,4.0,3. The static transparent ghost hand guidance helped me retain the melodies over time.
+User18,Recall,Static,Retention,QID27_3,3.0,3. The static transparent ghost hand guidance helped me retain the melodies over time.
+User19,Recall,Static,Retention,QID27_3,3.0,3. The static transparent ghost hand guidance helped me retain the melodies over time.
+User20,Recall,Static,Retention,QID27_3,3.0,3. The static transparent ghost hand guidance helped me retain the melodies over time.
+User21,Recall,Static,Retention,QID27_3,4.0,3. The static transparent ghost hand guidance helped me retain the melodies over time.
+User22,Recall,Static,Retention,QID27_3,3.0,3. The static transparent ghost hand guidance helped me retain the melodies over time.
+User23,Recall,Static,Retention,QID27_3,4.0,3. The static transparent ghost hand guidance helped me retain the melodies over time.
+User24,Recall,Static,Retention,QID27_3,5.0,3. The static transparent ghost hand guidance helped me retain the melodies over time.
+User25,Recall,Static,Retention,QID27_3,3.0,3. The static transparent ghost hand guidance helped me retain the melodies over time.
+User26,Recall,Static,Retention,QID27_3,2.0,3. The static transparent ghost hand guidance helped me retain the melodies over time.
+User27,Recall,Static,Retention,QID27_3,3.0,3. The static transparent ghost hand guidance helped me retain the melodies over time.
+User28,Recall,Static,Retention,QID27_3,4.0,3. The static transparent ghost hand guidance helped me retain the melodies over time.
+User29,Recall,Static,Retention,QID27_3,4.0,3. The static transparent ghost hand guidance helped me retain the melodies over time.
+User30,Recall,Static,Retention,QID27_3,4.0,3. The static transparent ghost hand guidance helped me retain the melodies over time.
+User1,Recall,Static,Retention,QID27_4,3.0,4. I was able to recall the fingerings accurately during the final test when using the static ghost hand.
+User2,Recall,Static,Retention,QID27_4,5.0,4. I was able to recall the fingerings accurately during the final test when using the static ghost hand.
+User3,Recall,Static,Retention,QID27_4,3.0,4. I was able to recall the fingerings accurately during the final test when using the static ghost hand.
+User4,Recall,Static,Retention,QID27_4,4.0,4. I was able to recall the fingerings accurately during the final test when using the static ghost hand.
+User5,Recall,Static,Retention,QID27_4,3.0,4. I was able to recall the fingerings accurately during the final test when using the static ghost hand.
+User6,Recall,Static,Retention,QID27_4,2.0,4. I was able to recall the fingerings accurately during the final test when using the static ghost hand.
+User7,Recall,Static,Retention,QID27_4,3.0,4. I was able to recall the fingerings accurately during the final test when using the static ghost hand.
+User8,Recall,Static,Retention,QID27_4,3.0,4. I was able to recall the fingerings accurately during the final test when using the static ghost hand.
+User9,Recall,Static,Retention,QID27_4,4.0,4. I was able to recall the fingerings accurately during the final test when using the static ghost hand.
+User10,Recall,Static,Retention,QID27_4,4.0,4. I was able to recall the fingerings accurately during the final test when using the static ghost hand.
+User11,Recall,Static,Retention,QID27_4,4.0,4. I was able to recall the fingerings accurately during the final test when using the static ghost hand.
+User12,Recall,Static,Retention,QID27_4,3.0,4. I was able to recall the fingerings accurately during the final test when using the static ghost hand.
+User13,Recall,Static,Retention,QID27_4,4.0,4. I was able to recall the fingerings accurately during the final test when using the static ghost hand.
+User14,Recall,Static,Retention,QID27_4,4.0,4. I was able to recall the fingerings accurately during the final test when using the static ghost hand.
+User15,Recall,Static,Retention,QID27_4,2.0,4. I was able to recall the fingerings accurately during the final test when using the static ghost hand.
+User16,Recall,Static,Retention,QID27_4,2.0,4. I was able to recall the fingerings accurately during the final test when using the static ghost hand.
+User17,Recall,Static,Retention,QID27_4,4.0,4. I was able to recall the fingerings accurately during the final test when using the static ghost hand.
+User18,Recall,Static,Retention,QID27_4,2.0,4. I was able to recall the fingerings accurately during the final test when using the static ghost hand.
+User19,Recall,Static,Retention,QID27_4,5.0,4. I was able to recall the fingerings accurately during the final test when using the static ghost hand.
+User20,Recall,Static,Retention,QID27_4,4.0,4. I was able to recall the fingerings accurately during the final test when using the static ghost hand.
+User21,Recall,Static,Retention,QID27_4,3.0,4. I was able to recall the fingerings accurately during the final test when using the static ghost hand.
+User22,Recall,Static,Retention,QID27_4,3.0,4. I was able to recall the fingerings accurately during the final test when using the static ghost hand.
+User23,Recall,Static,Retention,QID27_4,4.0,4. I was able to recall the fingerings accurately during the final test when using the static ghost hand.
+User24,Recall,Static,Retention,QID27_4,5.0,4. I was able to recall the fingerings accurately during the final test when using the static ghost hand.
+User25,Recall,Static,Retention,QID27_4,4.0,4. I was able to recall the fingerings accurately during the final test when using the static ghost hand.
+User26,Recall,Static,Retention,QID27_4,2.0,4. I was able to recall the fingerings accurately during the final test when using the static ghost hand.
+User27,Recall,Static,Retention,QID27_4,3.0,4. I was able to recall the fingerings accurately during the final test when using the static ghost hand.
+User28,Recall,Static,Retention,QID27_4,4.0,4. I was able to recall the fingerings accurately during the final test when using the static ghost hand.
+User29,Recall,Static,Retention,QID27_4,4.0,4. I was able to recall the fingerings accurately during the final test when using the static ghost hand.
+User30,Recall,Static,Retention,QID27_4,4.0,4. I was able to recall the fingerings accurately during the final test when using the static ghost hand.
+User1,Recall,Static,Retention,QID27_5,3.0,5. I relied more on rhythm than finger positions during the retention test in the static ghost hand condition.
+User2,Recall,Static,Retention,QID27_5,4.0,5. I relied more on rhythm than finger positions during the retention test in the static ghost hand condition.
+User3,Recall,Static,Retention,QID27_5,4.0,5. I relied more on rhythm than finger positions during the retention test in the static ghost hand condition.
+User4,Recall,Static,Retention,QID27_5,3.0,5. I relied more on rhythm than finger positions during the retention test in the static ghost hand condition.
+User5,Recall,Static,Retention,QID27_5,4.0,5. I relied more on rhythm than finger positions during the retention test in the static ghost hand condition.
+User6,Recall,Static,Retention,QID27_5,3.0,5. I relied more on rhythm than finger positions during the retention test in the static ghost hand condition.
+User7,Recall,Static,Retention,QID27_5,2.0,5. I relied more on rhythm than finger positions during the retention test in the static ghost hand condition.
+User8,Recall,Static,Retention,QID27_5,4.0,5. I relied more on rhythm than finger positions during the retention test in the static ghost hand condition.
+User9,Recall,Static,Retention,QID27_5,4.0,5. I relied more on rhythm than finger positions during the retention test in the static ghost hand condition.
+User10,Recall,Static,Retention,QID27_5,2.0,5. I relied more on rhythm than finger positions during the retention test in the static ghost hand condition.
+User11,Recall,Static,Retention,QID27_5,3.0,5. I relied more on rhythm than finger positions during the retention test in the static ghost hand condition.
+User12,Recall,Static,Retention,QID27_5,3.0,5. I relied more on rhythm than finger positions during the retention test in the static ghost hand condition.
+User13,Recall,Static,Retention,QID27_5,3.0,5. I relied more on rhythm than finger positions during the retention test in the static ghost hand condition.
+User14,Recall,Static,Retention,QID27_5,1.0,5. I relied more on rhythm than finger positions during the retention test in the static ghost hand condition.
+User15,Recall,Static,Retention,QID27_5,4.0,5. I relied more on rhythm than finger positions during the retention test in the static ghost hand condition.
+User16,Recall,Static,Retention,QID27_5,5.0,5. I relied more on rhythm than finger positions during the retention test in the static ghost hand condition.
+User17,Recall,Static,Retention,QID27_5,2.0,5. I relied more on rhythm than finger positions during the retention test in the static ghost hand condition.
+User18,Recall,Static,Retention,QID27_5,1.0,5. I relied more on rhythm than finger positions during the retention test in the static ghost hand condition.
+User19,Recall,Static,Retention,QID27_5,3.0,5. I relied more on rhythm than finger positions during the retention test in the static ghost hand condition.
+User20,Recall,Static,Retention,QID27_5,4.0,5. I relied more on rhythm than finger positions during the retention test in the static ghost hand condition.
+User21,Recall,Static,Retention,QID27_5,2.0,5. I relied more on rhythm than finger positions during the retention test in the static ghost hand condition.
+User22,Recall,Static,Retention,QID27_5,1.0,5. I relied more on rhythm than finger positions during the retention test in the static ghost hand condition.
+User23,Recall,Static,Retention,QID27_5,4.0,5. I relied more on rhythm than finger positions during the retention test in the static ghost hand condition.
+User24,Recall,Static,Retention,QID27_5,1.0,5. I relied more on rhythm than finger positions during the retention test in the static ghost hand condition.
+User25,Recall,Static,Retention,QID27_5,2.0,5. I relied more on rhythm than finger positions during the retention test in the static ghost hand condition.
+User26,Recall,Static,Retention,QID27_5,4.0,5. I relied more on rhythm than finger positions during the retention test in the static ghost hand condition.
+User27,Recall,Static,Retention,QID27_5,1.0,5. I relied more on rhythm than finger positions during the retention test in the static ghost hand condition.
+User28,Recall,Static,Retention,QID27_5,4.0,5. I relied more on rhythm than finger positions during the retention test in the static ghost hand condition.
+User29,Recall,Static,Retention,QID27_5,3.0,5. I relied more on rhythm than finger positions during the retention test in the static ghost hand condition.
+User30,Recall,Static,Retention,QID27_5,2.0,5. I relied more on rhythm than finger positions during the retention test in the static ghost hand condition.
+User1,Recall,Static,Retention,QID27_6,3.0,6. I was able to remember the melodies after the break more easily than I expected with the static ghost hand.
+User2,Recall,Static,Retention,QID27_6,3.0,6. I was able to remember the melodies after the break more easily than I expected with the static ghost hand.
+User3,Recall,Static,Retention,QID27_6,3.0,6. I was able to remember the melodies after the break more easily than I expected with the static ghost hand.
+User4,Recall,Static,Retention,QID27_6,2.0,6. I was able to remember the melodies after the break more easily than I expected with the static ghost hand.
+User5,Recall,Static,Retention,QID27_6,2.0,6. I was able to remember the melodies after the break more easily than I expected with the static ghost hand.
+User6,Recall,Static,Retention,QID27_6,4.0,6. I was able to remember the melodies after the break more easily than I expected with the static ghost hand.
+User7,Recall,Static,Retention,QID27_6,3.0,6. I was able to remember the melodies after the break more easily than I expected with the static ghost hand.
+User8,Recall,Static,Retention,QID27_6,3.0,6. I was able to remember the melodies after the break more easily than I expected with the static ghost hand.
+User9,Recall,Static,Retention,QID27_6,3.0,6. I was able to remember the melodies after the break more easily than I expected with the static ghost hand.
+User10,Recall,Static,Retention,QID27_6,4.0,6. I was able to remember the melodies after the break more easily than I expected with the static ghost hand.
+User11,Recall,Static,Retention,QID27_6,3.0,6. I was able to remember the melodies after the break more easily than I expected with the static ghost hand.
+User12,Recall,Static,Retention,QID27_6,3.0,6. I was able to remember the melodies after the break more easily than I expected with the static ghost hand.
+User13,Recall,Static,Retention,QID27_6,2.0,6. I was able to remember the melodies after the break more easily than I expected with the static ghost hand.
+User14,Recall,Static,Retention,QID27_6,2.0,6. I was able to remember the melodies after the break more easily than I expected with the static ghost hand.
+User15,Recall,Static,Retention,QID27_6,2.0,6. I was able to remember the melodies after the break more easily than I expected with the static ghost hand.
+User16,Recall,Static,Retention,QID27_6,4.0,6. I was able to remember the melodies after the break more easily than I expected with the static ghost hand.
+User17,Recall,Static,Retention,QID27_6,3.0,6. I was able to remember the melodies after the break more easily than I expected with the static ghost hand.
+User18,Recall,Static,Retention,QID27_6,4.0,6. I was able to remember the melodies after the break more easily than I expected with the static ghost hand.
+User19,Recall,Static,Retention,QID27_6,2.0,6. I was able to remember the melodies after the break more easily than I expected with the static ghost hand.
+User20,Recall,Static,Retention,QID27_6,3.0,6. I was able to remember the melodies after the break more easily than I expected with the static ghost hand.
+User21,Recall,Static,Retention,QID27_6,4.0,6. I was able to remember the melodies after the break more easily than I expected with the static ghost hand.
+User22,Recall,Static,Retention,QID27_6,3.0,6. I was able to remember the melodies after the break more easily than I expected with the static ghost hand.
+User23,Recall,Static,Retention,QID27_6,3.0,6. I was able to remember the melodies after the break more easily than I expected with the static ghost hand.
+User24,Recall,Static,Retention,QID27_6,5.0,6. I was able to remember the melodies after the break more easily than I expected with the static ghost hand.
+User25,Recall,Static,Retention,QID27_6,4.0,6. I was able to remember the melodies after the break more easily than I expected with the static ghost hand.
+User26,Recall,Static,Retention,QID27_6,2.0,6. I was able to remember the melodies after the break more easily than I expected with the static ghost hand.
+User27,Recall,Static,Retention,QID27_6,2.0,6. I was able to remember the melodies after the break more easily than I expected with the static ghost hand.
+User28,Recall,Static,Retention,QID27_6,3.0,6. I was able to remember the melodies after the break more easily than I expected with the static ghost hand.
+User29,Recall,Static,Retention,QID27_6,3.0,6. I was able to remember the melodies after the break more easily than I expected with the static ghost hand.
+User30,Recall,Static,Retention,QID27_6,4.0,6. I was able to remember the melodies after the break more easily than I expected with the static ghost hand.
+User1,Recall,Static,Retention,QID27_7,3.0,7. I felt just as confident during the retention test as during the immediate test in the static ghost hand condition.
+User2,Recall,Static,Retention,QID27_7,3.0,7. I felt just as confident during the retention test as during the immediate test in the static ghost hand condition.
+User3,Recall,Static,Retention,QID27_7,3.0,7. I felt just as confident during the retention test as during the immediate test in the static ghost hand condition.
+User4,Recall,Static,Retention,QID27_7,2.0,7. I felt just as confident during the retention test as during the immediate test in the static ghost hand condition.
+User5,Recall,Static,Retention,QID27_7,2.0,7. I felt just as confident during the retention test as during the immediate test in the static ghost hand condition.
+User6,Recall,Static,Retention,QID27_7,4.0,7. I felt just as confident during the retention test as during the immediate test in the static ghost hand condition.
+User7,Recall,Static,Retention,QID27_7,3.0,7. I felt just as confident during the retention test as during the immediate test in the static ghost hand condition.
+User8,Recall,Static,Retention,QID27_7,3.0,7. I felt just as confident during the retention test as during the immediate test in the static ghost hand condition.
+User9,Recall,Static,Retention,QID27_7,3.0,7. I felt just as confident during the retention test as during the immediate test in the static ghost hand condition.
+User10,Recall,Static,Retention,QID27_7,4.0,7. I felt just as confident during the retention test as during the immediate test in the static ghost hand condition.
+User11,Recall,Static,Retention,QID27_7,3.0,7. I felt just as confident during the retention test as during the immediate test in the static ghost hand condition.
+User12,Recall,Static,Retention,QID27_7,2.0,7. I felt just as confident during the retention test as during the immediate test in the static ghost hand condition.
+User13,Recall,Static,Retention,QID27_7,2.0,7. I felt just as confident during the retention test as during the immediate test in the static ghost hand condition.
+User14,Recall,Static,Retention,QID27_7,2.0,7. I felt just as confident during the retention test as during the immediate test in the static ghost hand condition.
+User15,Recall,Static,Retention,QID27_7,2.0,7. I felt just as confident during the retention test as during the immediate test in the static ghost hand condition.
+User16,Recall,Static,Retention,QID27_7,4.0,7. I felt just as confident during the retention test as during the immediate test in the static ghost hand condition.
+User17,Recall,Static,Retention,QID27_7,2.0,7. I felt just as confident during the retention test as during the immediate test in the static ghost hand condition.
+User18,Recall,Static,Retention,QID27_7,4.0,7. I felt just as confident during the retention test as during the immediate test in the static ghost hand condition.
+User19,Recall,Static,Retention,QID27_7,4.0,7. I felt just as confident during the retention test as during the immediate test in the static ghost hand condition.
+User20,Recall,Static,Retention,QID27_7,2.0,7. I felt just as confident during the retention test as during the immediate test in the static ghost hand condition.
+User21,Recall,Static,Retention,QID27_7,4.0,7. I felt just as confident during the retention test as during the immediate test in the static ghost hand condition.
+User22,Recall,Static,Retention,QID27_7,3.0,7. I felt just as confident during the retention test as during the immediate test in the static ghost hand condition.
+User23,Recall,Static,Retention,QID27_7,5.0,7. I felt just as confident during the retention test as during the immediate test in the static ghost hand condition.
+User24,Recall,Static,Retention,QID27_7,5.0,7. I felt just as confident during the retention test as during the immediate test in the static ghost hand condition.
+User25,Recall,Static,Retention,QID27_7,3.0,7. I felt just as confident during the retention test as during the immediate test in the static ghost hand condition.
+User26,Recall,Static,Retention,QID27_7,2.0,7. I felt just as confident during the retention test as during the immediate test in the static ghost hand condition.
+User27,Recall,Static,Retention,QID27_7,2.0,7. I felt just as confident during the retention test as during the immediate test in the static ghost hand condition.
+User28,Recall,Static,Retention,QID27_7,4.0,7. I felt just as confident during the retention test as during the immediate test in the static ghost hand condition.
+User29,Recall,Static,Retention,QID27_7,2.0,7. I felt just as confident during the retention test as during the immediate test in the static ghost hand condition.
+User30,Recall,Static,Retention,QID27_7,4.0,7. I felt just as confident during the retention test as during the immediate test in the static ghost hand condition.
+User1,Recall,Dynamic,Retention,QID11_1,3.0,8. I was able to remember the melodies well after the break when using the dynamic transparent ghost hand guidance.
+User2,Recall,Dynamic,Retention,QID11_1,4.0,8. I was able to remember the melodies well after the break when using the dynamic transparent ghost hand guidance.
+User3,Recall,Dynamic,Retention,QID11_1,5.0,8. I was able to remember the melodies well after the break when using the dynamic transparent ghost hand guidance.
+User4,Recall,Dynamic,Retention,QID11_1,4.0,8. I was able to remember the melodies well after the break when using the dynamic transparent ghost hand guidance.
+User5,Recall,Dynamic,Retention,QID11_1,4.0,8. I was able to remember the melodies well after the break when using the dynamic transparent ghost hand guidance.
+User6,Recall,Dynamic,Retention,QID11_1,3.0,8. I was able to remember the melodies well after the break when using the dynamic transparent ghost hand guidance.
+User7,Recall,Dynamic,Retention,QID11_1,4.0,8. I was able to remember the melodies well after the break when using the dynamic transparent ghost hand guidance.
+User8,Recall,Dynamic,Retention,QID11_1,4.0,8. I was able to remember the melodies well after the break when using the dynamic transparent ghost hand guidance.
+User9,Recall,Dynamic,Retention,QID11_1,4.0,8. I was able to remember the melodies well after the break when using the dynamic transparent ghost hand guidance.
+User10,Recall,Dynamic,Retention,QID11_1,5.0,8. I was able to remember the melodies well after the break when using the dynamic transparent ghost hand guidance.
+User11,Recall,Dynamic,Retention,QID11_1,4.0,8. I was able to remember the melodies well after the break when using the dynamic transparent ghost hand guidance.
+User12,Recall,Dynamic,Retention,QID11_1,5.0,8. I was able to remember the melodies well after the break when using the dynamic transparent ghost hand guidance.
+User13,Recall,Dynamic,Retention,QID11_1,4.0,8. I was able to remember the melodies well after the break when using the dynamic transparent ghost hand guidance.
+User14,Recall,Dynamic,Retention,QID11_1,3.0,8. I was able to remember the melodies well after the break when using the dynamic transparent ghost hand guidance.
+User15,Recall,Dynamic,Retention,QID11_1,5.0,8. I was able to remember the melodies well after the break when using the dynamic transparent ghost hand guidance.
+User16,Recall,Dynamic,Retention,QID11_1,3.0,8. I was able to remember the melodies well after the break when using the dynamic transparent ghost hand guidance.
+User17,Recall,Dynamic,Retention,QID11_1,3.0,8. I was able to remember the melodies well after the break when using the dynamic transparent ghost hand guidance.
+User18,Recall,Dynamic,Retention,QID11_1,5.0,8. I was able to remember the melodies well after the break when using the dynamic transparent ghost hand guidance.
+User19,Recall,Dynamic,Retention,QID11_1,5.0,8. I was able to remember the melodies well after the break when using the dynamic transparent ghost hand guidance.
+User20,Recall,Dynamic,Retention,QID11_1,4.0,8. I was able to remember the melodies well after the break when using the dynamic transparent ghost hand guidance.
+User21,Recall,Dynamic,Retention,QID11_1,4.0,8. I was able to remember the melodies well after the break when using the dynamic transparent ghost hand guidance.
+User22,Recall,Dynamic,Retention,QID11_1,4.0,8. I was able to remember the melodies well after the break when using the dynamic transparent ghost hand guidance.
+User23,Recall,Dynamic,Retention,QID11_1,5.0,8. I was able to remember the melodies well after the break when using the dynamic transparent ghost hand guidance.
+User24,Recall,Dynamic,Retention,QID11_1,5.0,8. I was able to remember the melodies well after the break when using the dynamic transparent ghost hand guidance.
+User25,Recall,Dynamic,Retention,QID11_1,4.0,8. I was able to remember the melodies well after the break when using the dynamic transparent ghost hand guidance.
+User26,Recall,Dynamic,Retention,QID11_1,4.0,8. I was able to remember the melodies well after the break when using the dynamic transparent ghost hand guidance.
+User27,Recall,Dynamic,Retention,QID11_1,3.0,8. I was able to remember the melodies well after the break when using the dynamic transparent ghost hand guidance.
+User28,Recall,Dynamic,Retention,QID11_1,3.0,8. I was able to remember the melodies well after the break when using the dynamic transparent ghost hand guidance.
+User29,Recall,Dynamic,Retention,QID11_1,4.0,8. I was able to remember the melodies well after the break when using the dynamic transparent ghost hand guidance.
+User30,Recall,Dynamic,Retention,QID11_1,4.0,8. I was able to remember the melodies well after the break when using the dynamic transparent ghost hand guidance.
+User1,Recall,Dynamic,Retention,QID11_2,5.0,9. I felt confident when playing the melodies during the retention test with the dynamic ghost hand guidance.
+User2,Recall,Dynamic,Retention,QID11_2,4.0,9. I felt confident when playing the melodies during the retention test with the dynamic ghost hand guidance.
+User3,Recall,Dynamic,Retention,QID11_2,5.0,9. I felt confident when playing the melodies during the retention test with the dynamic ghost hand guidance.
+User4,Recall,Dynamic,Retention,QID11_2,4.0,9. I felt confident when playing the melodies during the retention test with the dynamic ghost hand guidance.
+User5,Recall,Dynamic,Retention,QID11_2,3.0,9. I felt confident when playing the melodies during the retention test with the dynamic ghost hand guidance.
+User6,Recall,Dynamic,Retention,QID11_2,2.0,9. I felt confident when playing the melodies during the retention test with the dynamic ghost hand guidance.
+User7,Recall,Dynamic,Retention,QID11_2,2.0,9. I felt confident when playing the melodies during the retention test with the dynamic ghost hand guidance.
+User8,Recall,Dynamic,Retention,QID11_2,4.0,9. I felt confident when playing the melodies during the retention test with the dynamic ghost hand guidance.
+User9,Recall,Dynamic,Retention,QID11_2,4.0,9. I felt confident when playing the melodies during the retention test with the dynamic ghost hand guidance.
+User10,Recall,Dynamic,Retention,QID11_2,4.0,9. I felt confident when playing the melodies during the retention test with the dynamic ghost hand guidance.
+User11,Recall,Dynamic,Retention,QID11_2,4.0,9. I felt confident when playing the melodies during the retention test with the dynamic ghost hand guidance.
+User12,Recall,Dynamic,Retention,QID11_2,5.0,9. I felt confident when playing the melodies during the retention test with the dynamic ghost hand guidance.
+User13,Recall,Dynamic,Retention,QID11_2,4.0,9. I felt confident when playing the melodies during the retention test with the dynamic ghost hand guidance.
+User14,Recall,Dynamic,Retention,QID11_2,4.0,9. I felt confident when playing the melodies during the retention test with the dynamic ghost hand guidance.
+User15,Recall,Dynamic,Retention,QID11_2,4.0,9. I felt confident when playing the melodies during the retention test with the dynamic ghost hand guidance.
+User16,Recall,Dynamic,Retention,QID11_2,2.0,9. I felt confident when playing the melodies during the retention test with the dynamic ghost hand guidance.
+User17,Recall,Dynamic,Retention,QID11_2,3.0,9. I felt confident when playing the melodies during the retention test with the dynamic ghost hand guidance.
+User18,Recall,Dynamic,Retention,QID11_2,5.0,9. I felt confident when playing the melodies during the retention test with the dynamic ghost hand guidance.
+User19,Recall,Dynamic,Retention,QID11_2,5.0,9. I felt confident when playing the melodies during the retention test with the dynamic ghost hand guidance.
+User20,Recall,Dynamic,Retention,QID11_2,4.0,9. I felt confident when playing the melodies during the retention test with the dynamic ghost hand guidance.
+User21,Recall,Dynamic,Retention,QID11_2,5.0,9. I felt confident when playing the melodies during the retention test with the dynamic ghost hand guidance.
+User22,Recall,Dynamic,Retention,QID11_2,4.0,9. I felt confident when playing the melodies during the retention test with the dynamic ghost hand guidance.
+User23,Recall,Dynamic,Retention,QID11_2,5.0,9. I felt confident when playing the melodies during the retention test with the dynamic ghost hand guidance.
+User24,Recall,Dynamic,Retention,QID11_2,5.0,9. I felt confident when playing the melodies during the retention test with the dynamic ghost hand guidance.
+User25,Recall,Dynamic,Retention,QID11_2,4.0,9. I felt confident when playing the melodies during the retention test with the dynamic ghost hand guidance.
+User26,Recall,Dynamic,Retention,QID11_2,3.0,9. I felt confident when playing the melodies during the retention test with the dynamic ghost hand guidance.
+User27,Recall,Dynamic,Retention,QID11_2,2.0,9. I felt confident when playing the melodies during the retention test with the dynamic ghost hand guidance.
+User28,Recall,Dynamic,Retention,QID11_2,3.0,9. I felt confident when playing the melodies during the retention test with the dynamic ghost hand guidance.
+User29,Recall,Dynamic,Retention,QID11_2,4.0,9. I felt confident when playing the melodies during the retention test with the dynamic ghost hand guidance.
+User30,Recall,Dynamic,Retention,QID11_2,4.0,9. I felt confident when playing the melodies during the retention test with the dynamic ghost hand guidance.
+User1,Recall,Dynamic,Retention,QID11_3,4.0,10. The dynamic transparent ghost hand guidance helped me retain the melodies over time.
+User2,Recall,Dynamic,Retention,QID11_3,4.0,10. The dynamic transparent ghost hand guidance helped me retain the melodies over time.
+User3,Recall,Dynamic,Retention,QID11_3,3.0,10. The dynamic transparent ghost hand guidance helped me retain the melodies over time.
+User4,Recall,Dynamic,Retention,QID11_3,5.0,10. The dynamic transparent ghost hand guidance helped me retain the melodies over time.
+User5,Recall,Dynamic,Retention,QID11_3,3.0,10. The dynamic transparent ghost hand guidance helped me retain the melodies over time.
+User6,Recall,Dynamic,Retention,QID11_3,2.0,10. The dynamic transparent ghost hand guidance helped me retain the melodies over time.
+User7,Recall,Dynamic,Retention,QID11_3,4.0,10. The dynamic transparent ghost hand guidance helped me retain the melodies over time.
+User8,Recall,Dynamic,Retention,QID11_3,4.0,10. The dynamic transparent ghost hand guidance helped me retain the melodies over time.
+User9,Recall,Dynamic,Retention,QID11_3,4.0,10. The dynamic transparent ghost hand guidance helped me retain the melodies over time.
+User10,Recall,Dynamic,Retention,QID11_3,4.0,10. The dynamic transparent ghost hand guidance helped me retain the melodies over time.
+User11,Recall,Dynamic,Retention,QID11_3,3.0,10. The dynamic transparent ghost hand guidance helped me retain the melodies over time.
+User12,Recall,Dynamic,Retention,QID11_3,2.0,10. The dynamic transparent ghost hand guidance helped me retain the melodies over time.
+User13,Recall,Dynamic,Retention,QID11_3,3.0,10. The dynamic transparent ghost hand guidance helped me retain the melodies over time.
+User14,Recall,Dynamic,Retention,QID11_3,3.0,10. The dynamic transparent ghost hand guidance helped me retain the melodies over time.
+User15,Recall,Dynamic,Retention,QID11_3,4.0,10. The dynamic transparent ghost hand guidance helped me retain the melodies over time.
+User16,Recall,Dynamic,Retention,QID11_3,3.0,10. The dynamic transparent ghost hand guidance helped me retain the melodies over time.
+User17,Recall,Dynamic,Retention,QID11_3,3.0,10. The dynamic transparent ghost hand guidance helped me retain the melodies over time.
+User18,Recall,Dynamic,Retention,QID11_3,4.0,10. The dynamic transparent ghost hand guidance helped me retain the melodies over time.
+User19,Recall,Dynamic,Retention,QID11_3,4.0,10. The dynamic transparent ghost hand guidance helped me retain the melodies over time.
+User20,Recall,Dynamic,Retention,QID11_3,4.0,10. The dynamic transparent ghost hand guidance helped me retain the melodies over time.
+User21,Recall,Dynamic,Retention,QID11_3,5.0,10. The dynamic transparent ghost hand guidance helped me retain the melodies over time.
+User22,Recall,Dynamic,Retention,QID11_3,4.0,10. The dynamic transparent ghost hand guidance helped me retain the melodies over time.
+User23,Recall,Dynamic,Retention,QID11_3,4.0,10. The dynamic transparent ghost hand guidance helped me retain the melodies over time.
+User24,Recall,Dynamic,Retention,QID11_3,2.0,10. The dynamic transparent ghost hand guidance helped me retain the melodies over time.
+User25,Recall,Dynamic,Retention,QID11_3,3.0,10. The dynamic transparent ghost hand guidance helped me retain the melodies over time.
+User26,Recall,Dynamic,Retention,QID11_3,4.0,10. The dynamic transparent ghost hand guidance helped me retain the melodies over time.
+User27,Recall,Dynamic,Retention,QID11_3,3.0,10. The dynamic transparent ghost hand guidance helped me retain the melodies over time.
+User28,Recall,Dynamic,Retention,QID11_3,4.0,10. The dynamic transparent ghost hand guidance helped me retain the melodies over time.
+User29,Recall,Dynamic,Retention,QID11_3,4.0,10. The dynamic transparent ghost hand guidance helped me retain the melodies over time.
+User30,Recall,Dynamic,Retention,QID11_3,4.0,10. The dynamic transparent ghost hand guidance helped me retain the melodies over time.
+User1,Recall,Dynamic,Retention,QID11_4,3.0,11. I was able to recall the fingerings accurately during the final test when using the dynamic ghost hand.
+User2,Recall,Dynamic,Retention,QID11_4,5.0,11. I was able to recall the fingerings accurately during the final test when using the dynamic ghost hand.
+User3,Recall,Dynamic,Retention,QID11_4,5.0,11. I was able to recall the fingerings accurately during the final test when using the dynamic ghost hand.
+User4,Recall,Dynamic,Retention,QID11_4,5.0,11. I was able to recall the fingerings accurately during the final test when using the dynamic ghost hand.
+User5,Recall,Dynamic,Retention,QID11_4,4.0,11. I was able to recall the fingerings accurately during the final test when using the dynamic ghost hand.
+User6,Recall,Dynamic,Retention,QID11_4,2.0,11. I was able to recall the fingerings accurately during the final test when using the dynamic ghost hand.
+User7,Recall,Dynamic,Retention,QID11_4,3.0,11. I was able to recall the fingerings accurately during the final test when using the dynamic ghost hand.
+User8,Recall,Dynamic,Retention,QID11_4,4.0,11. I was able to recall the fingerings accurately during the final test when using the dynamic ghost hand.
+User9,Recall,Dynamic,Retention,QID11_4,4.0,11. I was able to recall the fingerings accurately during the final test when using the dynamic ghost hand.
+User10,Recall,Dynamic,Retention,QID11_4,4.0,11. I was able to recall the fingerings accurately during the final test when using the dynamic ghost hand.
+User11,Recall,Dynamic,Retention,QID11_4,4.0,11. I was able to recall the fingerings accurately during the final test when using the dynamic ghost hand.
+User12,Recall,Dynamic,Retention,QID11_4,4.0,11. I was able to recall the fingerings accurately during the final test when using the dynamic ghost hand.
+User13,Recall,Dynamic,Retention,QID11_4,4.0,11. I was able to recall the fingerings accurately during the final test when using the dynamic ghost hand.
+User14,Recall,Dynamic,Retention,QID11_4,4.0,11. I was able to recall the fingerings accurately during the final test when using the dynamic ghost hand.
+User15,Recall,Dynamic,Retention,QID11_4,5.0,11. I was able to recall the fingerings accurately during the final test when using the dynamic ghost hand.
+User16,Recall,Dynamic,Retention,QID11_4,2.0,11. I was able to recall the fingerings accurately during the final test when using the dynamic ghost hand.
+User17,Recall,Dynamic,Retention,QID11_4,4.0,11. I was able to recall the fingerings accurately during the final test when using the dynamic ghost hand.
+User18,Recall,Dynamic,Retention,QID11_4,5.0,11. I was able to recall the fingerings accurately during the final test when using the dynamic ghost hand.
+User19,Recall,Dynamic,Retention,QID11_4,5.0,11. I was able to recall the fingerings accurately during the final test when using the dynamic ghost hand.
+User20,Recall,Dynamic,Retention,QID11_4,4.0,11. I was able to recall the fingerings accurately during the final test when using the dynamic ghost hand.
+User21,Recall,Dynamic,Retention,QID11_4,5.0,11. I was able to recall the fingerings accurately during the final test when using the dynamic ghost hand.
+User22,Recall,Dynamic,Retention,QID11_4,4.0,11. I was able to recall the fingerings accurately during the final test when using the dynamic ghost hand.
+User23,Recall,Dynamic,Retention,QID11_4,4.0,11. I was able to recall the fingerings accurately during the final test when using the dynamic ghost hand.
+User24,Recall,Dynamic,Retention,QID11_4,4.0,11. I was able to recall the fingerings accurately during the final test when using the dynamic ghost hand.
+User25,Recall,Dynamic,Retention,QID11_4,4.0,11. I was able to recall the fingerings accurately during the final test when using the dynamic ghost hand.
+User26,Recall,Dynamic,Retention,QID11_4,4.0,11. I was able to recall the fingerings accurately during the final test when using the dynamic ghost hand.
+User27,Recall,Dynamic,Retention,QID11_4,4.0,11. I was able to recall the fingerings accurately during the final test when using the dynamic ghost hand.
+User28,Recall,Dynamic,Retention,QID11_4,4.0,11. I was able to recall the fingerings accurately during the final test when using the dynamic ghost hand.
+User29,Recall,Dynamic,Retention,QID11_4,4.0,11. I was able to recall the fingerings accurately during the final test when using the dynamic ghost hand.
+User30,Recall,Dynamic,Retention,QID11_4,4.0,11. I was able to recall the fingerings accurately during the final test when using the dynamic ghost hand.
+User1,Recall,Dynamic,Retention,QID11_5,3.0,12. I relied more on rhythm than finger positions during the retention test in the dynamic ghost hand condition.
+User2,Recall,Dynamic,Retention,QID11_5,2.0,12. I relied more on rhythm than finger positions during the retention test in the dynamic ghost hand condition.
+User3,Recall,Dynamic,Retention,QID11_5,3.0,12. I relied more on rhythm than finger positions during the retention test in the dynamic ghost hand condition.
+User4,Recall,Dynamic,Retention,QID11_5,3.0,12. I relied more on rhythm than finger positions during the retention test in the dynamic ghost hand condition.
+User5,Recall,Dynamic,Retention,QID11_5,3.0,12. I relied more on rhythm than finger positions during the retention test in the dynamic ghost hand condition.
+User6,Recall,Dynamic,Retention,QID11_5,1.0,12. I relied more on rhythm than finger positions during the retention test in the dynamic ghost hand condition.
+User7,Recall,Dynamic,Retention,QID11_5,1.0,12. I relied more on rhythm than finger positions during the retention test in the dynamic ghost hand condition.
+User8,Recall,Dynamic,Retention,QID11_5,4.0,12. I relied more on rhythm than finger positions during the retention test in the dynamic ghost hand condition.
+User9,Recall,Dynamic,Retention,QID11_5,4.0,12. I relied more on rhythm than finger positions during the retention test in the dynamic ghost hand condition.
+User10,Recall,Dynamic,Retention,QID11_5,2.0,12. I relied more on rhythm than finger positions during the retention test in the dynamic ghost hand condition.
+User11,Recall,Dynamic,Retention,QID11_5,2.0,12. I relied more on rhythm than finger positions during the retention test in the dynamic ghost hand condition.
+User12,Recall,Dynamic,Retention,QID11_5,1.0,12. I relied more on rhythm than finger positions during the retention test in the dynamic ghost hand condition.
+User13,Recall,Dynamic,Retention,QID11_5,1.0,12. I relied more on rhythm than finger positions during the retention test in the dynamic ghost hand condition.
+User14,Recall,Dynamic,Retention,QID11_5,1.0,12. I relied more on rhythm than finger positions during the retention test in the dynamic ghost hand condition.
+User15,Recall,Dynamic,Retention,QID11_5,2.0,12. I relied more on rhythm than finger positions during the retention test in the dynamic ghost hand condition.
+User16,Recall,Dynamic,Retention,QID11_5,5.0,12. I relied more on rhythm than finger positions during the retention test in the dynamic ghost hand condition.
+User17,Recall,Dynamic,Retention,QID11_5,3.0,12. I relied more on rhythm than finger positions during the retention test in the dynamic ghost hand condition.
+User18,Recall,Dynamic,Retention,QID11_5,2.0,12. I relied more on rhythm than finger positions during the retention test in the dynamic ghost hand condition.
+User19,Recall,Dynamic,Retention,QID11_5,3.0,12. I relied more on rhythm than finger positions during the retention test in the dynamic ghost hand condition.
+User20,Recall,Dynamic,Retention,QID11_5,4.0,12. I relied more on rhythm than finger positions during the retention test in the dynamic ghost hand condition.
+User21,Recall,Dynamic,Retention,QID11_5,2.0,12. I relied more on rhythm than finger positions during the retention test in the dynamic ghost hand condition.
+User22,Recall,Dynamic,Retention,QID11_5,1.0,12. I relied more on rhythm than finger positions during the retention test in the dynamic ghost hand condition.
+User23,Recall,Dynamic,Retention,QID11_5,1.0,12. I relied more on rhythm than finger positions during the retention test in the dynamic ghost hand condition.
+User24,Recall,Dynamic,Retention,QID11_5,1.0,12. I relied more on rhythm than finger positions during the retention test in the dynamic ghost hand condition.
+User25,Recall,Dynamic,Retention,QID11_5,2.0,12. I relied more on rhythm than finger positions during the retention test in the dynamic ghost hand condition.
+User26,Recall,Dynamic,Retention,QID11_5,4.0,12. I relied more on rhythm than finger positions during the retention test in the dynamic ghost hand condition.
+User27,Recall,Dynamic,Retention,QID11_5,1.0,12. I relied more on rhythm than finger positions during the retention test in the dynamic ghost hand condition.
+User28,Recall,Dynamic,Retention,QID11_5,4.0,12. I relied more on rhythm than finger positions during the retention test in the dynamic ghost hand condition.
+User29,Recall,Dynamic,Retention,QID11_5,3.0,12. I relied more on rhythm than finger positions during the retention test in the dynamic ghost hand condition.
+User30,Recall,Dynamic,Retention,QID11_5,2.0,12. I relied more on rhythm than finger positions during the retention test in the dynamic ghost hand condition.
+User1,Recall,Dynamic,Retention,QID11_6,3.0,13. I was able to remember the melodies after the break more easily than I expected with the dynamic ghost hand.
+User2,Recall,Dynamic,Retention,QID11_6,3.0,13. I was able to remember the melodies after the break more easily than I expected with the dynamic ghost hand.
+User3,Recall,Dynamic,Retention,QID11_6,4.0,13. I was able to remember the melodies after the break more easily than I expected with the dynamic ghost hand.
+User4,Recall,Dynamic,Retention,QID11_6,4.0,13. I was able to remember the melodies after the break more easily than I expected with the dynamic ghost hand.
+User5,Recall,Dynamic,Retention,QID11_6,3.0,13. I was able to remember the melodies after the break more easily than I expected with the dynamic ghost hand.
+User6,Recall,Dynamic,Retention,QID11_6,5.0,13. I was able to remember the melodies after the break more easily than I expected with the dynamic ghost hand.
+User7,Recall,Dynamic,Retention,QID11_6,5.0,13. I was able to remember the melodies after the break more easily than I expected with the dynamic ghost hand.
+User8,Recall,Dynamic,Retention,QID11_6,5.0,13. I was able to remember the melodies after the break more easily than I expected with the dynamic ghost hand.
+User9,Recall,Dynamic,Retention,QID11_6,4.0,13. I was able to remember the melodies after the break more easily than I expected with the dynamic ghost hand.
+User10,Recall,Dynamic,Retention,QID11_6,4.0,13. I was able to remember the melodies after the break more easily than I expected with the dynamic ghost hand.
+User11,Recall,Dynamic,Retention,QID11_6,3.0,13. I was able to remember the melodies after the break more easily than I expected with the dynamic ghost hand.
+User12,Recall,Dynamic,Retention,QID11_6,4.0,13. I was able to remember the melodies after the break more easily than I expected with the dynamic ghost hand.
+User13,Recall,Dynamic,Retention,QID11_6,5.0,13. I was able to remember the melodies after the break more easily than I expected with the dynamic ghost hand.
+User14,Recall,Dynamic,Retention,QID11_6,5.0,13. I was able to remember the melodies after the break more easily than I expected with the dynamic ghost hand.
+User15,Recall,Dynamic,Retention,QID11_6,5.0,13. I was able to remember the melodies after the break more easily than I expected with the dynamic ghost hand.
+User16,Recall,Dynamic,Retention,QID11_6,4.0,13. I was able to remember the melodies after the break more easily than I expected with the dynamic ghost hand.
+User17,Recall,Dynamic,Retention,QID11_6,3.0,13. I was able to remember the melodies after the break more easily than I expected with the dynamic ghost hand.
+User18,Recall,Dynamic,Retention,QID11_6,5.0,13. I was able to remember the melodies after the break more easily than I expected with the dynamic ghost hand.
+User19,Recall,Dynamic,Retention,QID11_6,4.0,13. I was able to remember the melodies after the break more easily than I expected with the dynamic ghost hand.
+User20,Recall,Dynamic,Retention,QID11_6,4.0,13. I was able to remember the melodies after the break more easily than I expected with the dynamic ghost hand.
+User21,Recall,Dynamic,Retention,QID11_6,5.0,13. I was able to remember the melodies after the break more easily than I expected with the dynamic ghost hand.
+User22,Recall,Dynamic,Retention,QID11_6,4.0,13. I was able to remember the melodies after the break more easily than I expected with the dynamic ghost hand.
+User23,Recall,Dynamic,Retention,QID11_6,5.0,13. I was able to remember the melodies after the break more easily than I expected with the dynamic ghost hand.
+User24,Recall,Dynamic,Retention,QID11_6,5.0,13. I was able to remember the melodies after the break more easily than I expected with the dynamic ghost hand.
+User25,Recall,Dynamic,Retention,QID11_6,4.0,13. I was able to remember the melodies after the break more easily than I expected with the dynamic ghost hand.
+User26,Recall,Dynamic,Retention,QID11_6,4.0,13. I was able to remember the melodies after the break more easily than I expected with the dynamic ghost hand.
+User27,Recall,Dynamic,Retention,QID11_6,2.0,13. I was able to remember the melodies after the break more easily than I expected with the dynamic ghost hand.
+User28,Recall,Dynamic,Retention,QID11_6,4.0,13. I was able to remember the melodies after the break more easily than I expected with the dynamic ghost hand.
+User29,Recall,Dynamic,Retention,QID11_6,4.0,13. I was able to remember the melodies after the break more easily than I expected with the dynamic ghost hand.
+User30,Recall,Dynamic,Retention,QID11_6,4.0,13. I was able to remember the melodies after the break more easily than I expected with the dynamic ghost hand.
+User1,Recall,Dynamic,Retention,QID11_7,3.0,14. I felt just as confident during the retention test as during the immediate test in the dynamic ghost hand condition.
+User2,Recall,Dynamic,Retention,QID11_7,4.0,14. I felt just as confident during the retention test as during the immediate test in the dynamic ghost hand condition.
+User3,Recall,Dynamic,Retention,QID11_7,4.0,14. I felt just as confident during the retention test as during the immediate test in the dynamic ghost hand condition.
+User4,Recall,Dynamic,Retention,QID11_7,4.0,14. I felt just as confident during the retention test as during the immediate test in the dynamic ghost hand condition.
+User5,Recall,Dynamic,Retention,QID11_7,4.0,14. I felt just as confident during the retention test as during the immediate test in the dynamic ghost hand condition.
+User6,Recall,Dynamic,Retention,QID11_7,5.0,14. I felt just as confident during the retention test as during the immediate test in the dynamic ghost hand condition.
+User7,Recall,Dynamic,Retention,QID11_7,4.0,14. I felt just as confident during the retention test as during the immediate test in the dynamic ghost hand condition.
+User8,Recall,Dynamic,Retention,QID11_7,5.0,14. I felt just as confident during the retention test as during the immediate test in the dynamic ghost hand condition.
+User9,Recall,Dynamic,Retention,QID11_7,3.0,14. I felt just as confident during the retention test as during the immediate test in the dynamic ghost hand condition.
+User10,Recall,Dynamic,Retention,QID11_7,4.0,14. I felt just as confident during the retention test as during the immediate test in the dynamic ghost hand condition.
+User11,Recall,Dynamic,Retention,QID11_7,3.0,14. I felt just as confident during the retention test as during the immediate test in the dynamic ghost hand condition.
+User12,Recall,Dynamic,Retention,QID11_7,5.0,14. I felt just as confident during the retention test as during the immediate test in the dynamic ghost hand condition.
+User13,Recall,Dynamic,Retention,QID11_7,5.0,14. I felt just as confident during the retention test as during the immediate test in the dynamic ghost hand condition.
+User14,Recall,Dynamic,Retention,QID11_7,5.0,14. I felt just as confident during the retention test as during the immediate test in the dynamic ghost hand condition.
+User15,Recall,Dynamic,Retention,QID11_7,5.0,14. I felt just as confident during the retention test as during the immediate test in the dynamic ghost hand condition.
+User16,Recall,Dynamic,Retention,QID11_7,4.0,14. I felt just as confident during the retention test as during the immediate test in the dynamic ghost hand condition.
+User17,Recall,Dynamic,Retention,QID11_7,3.0,14. I felt just as confident during the retention test as during the immediate test in the dynamic ghost hand condition.
+User18,Recall,Dynamic,Retention,QID11_7,5.0,14. I felt just as confident during the retention test as during the immediate test in the dynamic ghost hand condition.
+User19,Recall,Dynamic,Retention,QID11_7,5.0,14. I felt just as confident during the retention test as during the immediate test in the dynamic ghost hand condition.
+User20,Recall,Dynamic,Retention,QID11_7,4.0,14. I felt just as confident during the retention test as during the immediate test in the dynamic ghost hand condition.
+User21,Recall,Dynamic,Retention,QID11_7,4.0,14. I felt just as confident during the retention test as during the immediate test in the dynamic ghost hand condition.
+User22,Recall,Dynamic,Retention,QID11_7,4.0,14. I felt just as confident during the retention test as during the immediate test in the dynamic ghost hand condition.
+User23,Recall,Dynamic,Retention,QID11_7,5.0,14. I felt just as confident during the retention test as during the immediate test in the dynamic ghost hand condition.
+User24,Recall,Dynamic,Retention,QID11_7,5.0,14. I felt just as confident during the retention test as during the immediate test in the dynamic ghost hand condition.
+User25,Recall,Dynamic,Retention,QID11_7,2.0,14. I felt just as confident during the retention test as during the immediate test in the dynamic ghost hand condition.
+User26,Recall,Dynamic,Retention,QID11_7,3.0,14. I felt just as confident during the retention test as during the immediate test in the dynamic ghost hand condition.
+User27,Recall,Dynamic,Retention,QID11_7,1.0,14. I felt just as confident during the retention test as during the immediate test in the dynamic ghost hand condition.
+User28,Recall,Dynamic,Retention,QID11_7,4.0,14. I felt just as confident during the retention test as during the immediate test in the dynamic ghost hand condition.
+User29,Recall,Dynamic,Retention,QID11_7,4.0,14. I felt just as confident during the retention test as during the immediate test in the dynamic ghost hand condition.
+User30,Recall,Dynamic,Retention,QID11_7,4.0,14. I felt just as confident during the retention test as during the immediate test in the dynamic ghost hand condition.
+User1,Overall,,ComparativeLikert,QID9_1,3.0,12. The static transparent ghost hand was easy to learn from.
+User2,Overall,,ComparativeLikert,QID9_1,3.0,12. The static transparent ghost hand was easy to learn from.
+User3,Overall,,ComparativeLikert,QID9_1,4.0,12. The static transparent ghost hand was easy to learn from.
+User4,Overall,,ComparativeLikert,QID9_1,3.0,12. The static transparent ghost hand was easy to learn from.
+User5,Overall,,ComparativeLikert,QID9_1,3.0,12. The static transparent ghost hand was easy to learn from.
+User6,Overall,,ComparativeLikert,QID9_1,3.0,12. The static transparent ghost hand was easy to learn from.
+User7,Overall,,ComparativeLikert,QID9_1,4.0,12. The static transparent ghost hand was easy to learn from.
+User8,Overall,,ComparativeLikert,QID9_1,4.0,12. The static transparent ghost hand was easy to learn from.
+User9,Overall,,ComparativeLikert,QID9_1,3.0,12. The static transparent ghost hand was easy to learn from.
+User10,Overall,,ComparativeLikert,QID9_1,4.0,12. The static transparent ghost hand was easy to learn from.
+User11,Overall,,ComparativeLikert,QID9_1,3.0,12. The static transparent ghost hand was easy to learn from.
+User12,Overall,,ComparativeLikert,QID9_1,4.0,12. The static transparent ghost hand was easy to learn from.
+User13,Overall,,ComparativeLikert,QID9_1,3.0,12. The static transparent ghost hand was easy to learn from.
+User14,Overall,,ComparativeLikert,QID9_1,3.0,12. The static transparent ghost hand was easy to learn from.
+User15,Overall,,ComparativeLikert,QID9_1,4.0,12. The static transparent ghost hand was easy to learn from.
+User16,Overall,,ComparativeLikert,QID9_1,4.0,12. The static transparent ghost hand was easy to learn from.
+User17,Overall,,ComparativeLikert,QID9_1,3.0,12. The static transparent ghost hand was easy to learn from.
+User18,Overall,,ComparativeLikert,QID9_1,3.0,12. The static transparent ghost hand was easy to learn from.
+User19,Overall,,ComparativeLikert,QID9_1,4.0,12. The static transparent ghost hand was easy to learn from.
+User20,Overall,,ComparativeLikert,QID9_1,4.0,12. The static transparent ghost hand was easy to learn from.
+User21,Overall,,ComparativeLikert,QID9_1,3.0,12. The static transparent ghost hand was easy to learn from.
+User22,Overall,,ComparativeLikert,QID9_1,3.0,12. The static transparent ghost hand was easy to learn from.
+User23,Overall,,ComparativeLikert,QID9_1,2.0,12. The static transparent ghost hand was easy to learn from.
+User24,Overall,,ComparativeLikert,QID9_1,5.0,12. The static transparent ghost hand was easy to learn from.
+User25,Overall,,ComparativeLikert,QID9_1,4.0,12. The static transparent ghost hand was easy to learn from.
+User26,Overall,,ComparativeLikert,QID9_1,3.0,12. The static transparent ghost hand was easy to learn from.
+User27,Overall,,ComparativeLikert,QID9_1,4.0,12. The static transparent ghost hand was easy to learn from.
+User28,Overall,,ComparativeLikert,QID9_1,5.0,12. The static transparent ghost hand was easy to learn from.
+User29,Overall,,ComparativeLikert,QID9_1,4.0,12. The static transparent ghost hand was easy to learn from.
+User30,Overall,,ComparativeLikert,QID9_1,4.0,12. The static transparent ghost hand was easy to learn from.
+User1,Overall,,ComparativeLikert,QID9_2,4.0,13. The dynamic transparent ghost hand was easy to learn from.
+User2,Overall,,ComparativeLikert,QID9_2,3.0,13. The dynamic transparent ghost hand was easy to learn from.
+User3,Overall,,ComparativeLikert,QID9_2,4.0,13. The dynamic transparent ghost hand was easy to learn from.
+User4,Overall,,ComparativeLikert,QID9_2,4.0,13. The dynamic transparent ghost hand was easy to learn from.
+User5,Overall,,ComparativeLikert,QID9_2,3.0,13. The dynamic transparent ghost hand was easy to learn from.
+User6,Overall,,ComparativeLikert,QID9_2,3.0,13. The dynamic transparent ghost hand was easy to learn from.
+User7,Overall,,ComparativeLikert,QID9_2,4.0,13. The dynamic transparent ghost hand was easy to learn from.
+User8,Overall,,ComparativeLikert,QID9_2,4.0,13. The dynamic transparent ghost hand was easy to learn from.
+User9,Overall,,ComparativeLikert,QID9_2,3.0,13. The dynamic transparent ghost hand was easy to learn from.
+User10,Overall,,ComparativeLikert,QID9_2,4.0,13. The dynamic transparent ghost hand was easy to learn from.
+User11,Overall,,ComparativeLikert,QID9_2,4.0,13. The dynamic transparent ghost hand was easy to learn from.
+User12,Overall,,ComparativeLikert,QID9_2,3.0,13. The dynamic transparent ghost hand was easy to learn from.
+User13,Overall,,ComparativeLikert,QID9_2,4.0,13. The dynamic transparent ghost hand was easy to learn from.
+User14,Overall,,ComparativeLikert,QID9_2,3.0,13. The dynamic transparent ghost hand was easy to learn from.
+User15,Overall,,ComparativeLikert,QID9_2,5.0,13. The dynamic transparent ghost hand was easy to learn from.
+User16,Overall,,ComparativeLikert,QID9_2,4.0,13. The dynamic transparent ghost hand was easy to learn from.
+User17,Overall,,ComparativeLikert,QID9_2,4.0,13. The dynamic transparent ghost hand was easy to learn from.
+User18,Overall,,ComparativeLikert,QID9_2,4.0,13. The dynamic transparent ghost hand was easy to learn from.
+User19,Overall,,ComparativeLikert,QID9_2,5.0,13. The dynamic transparent ghost hand was easy to learn from.
+User20,Overall,,ComparativeLikert,QID9_2,4.0,13. The dynamic transparent ghost hand was easy to learn from.
+User21,Overall,,ComparativeLikert,QID9_2,5.0,13. The dynamic transparent ghost hand was easy to learn from.
+User22,Overall,,ComparativeLikert,QID9_2,4.0,13. The dynamic transparent ghost hand was easy to learn from.
+User23,Overall,,ComparativeLikert,QID9_2,4.0,13. The dynamic transparent ghost hand was easy to learn from.
+User24,Overall,,ComparativeLikert,QID9_2,2.0,13. The dynamic transparent ghost hand was easy to learn from.
+User25,Overall,,ComparativeLikert,QID9_2,4.0,13. The dynamic transparent ghost hand was easy to learn from.
+User26,Overall,,ComparativeLikert,QID9_2,4.0,13. The dynamic transparent ghost hand was easy to learn from.
+User27,Overall,,ComparativeLikert,QID9_2,4.0,13. The dynamic transparent ghost hand was easy to learn from.
+User28,Overall,,ComparativeLikert,QID9_2,5.0,13. The dynamic transparent ghost hand was easy to learn from.
+User29,Overall,,ComparativeLikert,QID9_2,4.0,13. The dynamic transparent ghost hand was easy to learn from.
+User30,Overall,,ComparativeLikert,QID9_2,4.0,13. The dynamic transparent ghost hand was easy to learn from.

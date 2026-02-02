@@ -1,0 +1,6 @@
+﻿Index / Stat,Static Imm,Dynamic Imm,Static Ret,Dynamic Ret
+Overall (μ),0.465,0.610,0.414,0.611
+t-Test (p) — Immediate,-,p=0.000741,-,
+Cohen's d_z — Immediate,-,d=0.689,-,
+t-Test (p) — Retention,-,,-,p=0.000021
+Cohen's d_z — Retention,-,,-,d=0.925

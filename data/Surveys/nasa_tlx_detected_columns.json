@@ -1,0 +1,22 @@
+{
+  "Dynamic_map": {
+    "Mental": "{\"ImportId\":\"NASA-TLX_D1\"}",
+    "Physical": "{\"ImportId\":\"NASA-TLX_D2\"}",
+    "Temporal": "{\"ImportId\":\"NASA-TLX_D3\"}",
+    "Performance": "{\"ImportId\":\"NASA-TLX_D4\"}",
+    "Effort": "{\"ImportId\":\"NASA-TLX_D6\"}",
+    "Frustration": "{\"ImportId\":\"NASA-TLX_D7\"}"
+  },
+  "Static_map": {
+    "Mental": "{\"ImportId\":\"NASA-TLX_S1\"}",
+    "Physical": "{\"ImportId\":\"NASA-TLX_S2\"}",
+    "Temporal": "{\"ImportId\":\"NASA-TLX_S3\"}",
+    "Performance": "{\"ImportId\":\"NASA-TLX_S4\"}",
+    "Effort": "{\"ImportId\":\"NASA-TLX_S6\"}",
+    "Frustration": "{\"ImportId\":\"NASA-TLX_S7\"}"
+  },
+  "Dynamic_PerfReverseCol": "{\"ImportId\":\"NASA-TLX_D5\"}",
+  "Static_PerfReverseCol": "{\"ImportId\":\"NASA-TLX_S5\"}",
+  "n_rows_used": 30,
+  "note": "Only rows 4–33 (30 users) were analyzed."
+}
