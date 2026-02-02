@@ -1,4 +1,4 @@
-# Supplementary Material — Skill‑Adaptive Ghost Instructor
+# Skill‑Adaptive Ghost Instructor
 
 This package contains **source code, tiny anonymized data samples, and documentation** accompanying the paper.
 
