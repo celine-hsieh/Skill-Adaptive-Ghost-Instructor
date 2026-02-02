@@ -36,4 +36,9 @@ Supplementary Material/
 ## Usage & limitations
 
 - These samples are **for illustration and figure reproduction only**.  
-- They are intentionally small and pseudonymized; do not attempt re‑identification.  
+- They are intentionally small and pseudonymized; do not attempt re‑identification.
+
+---
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
