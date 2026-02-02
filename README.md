@@ -41,4 +41,4 @@ Supplementary Material/
 ---
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/celine-hsieh/Skill-Adaptive-Ghost-Instructor/blob/main/LICENSE.txt.txt) file for details.
